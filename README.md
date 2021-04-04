@@ -24,31 +24,31 @@ The major goals of this website for existings fans and potential fans is to prov
 ## Wireframes
 
 - Home page
-    * [Mobile]()
-    * [Tablet]()
-    * [Desktop]()
+    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Home.PNG)
+    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Home.PNG)
+    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Home.PNG)
 
 - Bio page
-    * [Mobile]()
-    * [Tablet]()
-    * [Desktop]()
+    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Bio.PNG)
+    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Bio.PNG)
+    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Bio.PNG)
 
 - Tour page
-    * [Mobile]()
-    * [Tablet]()
-    * [Desktop]()
+    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Tour.PNG)
+    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Tour.PNG)
+    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Tour.PNG)
 
 - Media page
-    * [Mobile]()
-    * [Tablet]()
-    * [Desktop]()
+    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Media.PNG)
+    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Media.PNG)
+    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Media.PNG)
 
 - Store page
-    * [Mobile]()
-    * [Tablet]()
-    * [Desktop]()
+    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Store.PNG)
+    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Store.PNG)
+    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Store.PNG)
 
 - Contact page
-    * [Mobile]()
-    * [Tablet]()
-    * [Desktop]()
+    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Contact.PNG)
+    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Contact.PNG)
+    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Contact.PNG)
