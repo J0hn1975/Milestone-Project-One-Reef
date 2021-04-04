@@ -20,3 +20,35 @@ The major goals of this website for existings fans and potential fans is to prov
 3. As a new fan (and returning fan), I would like to be able to buy the bands merchandise.
 4. As a new fan (and returning fan), I would like to see pictures and videos of the band.
 5. As a new fan (and returning fan), I would like to be able to book the band for my own events.
+
+## Wireframes
+
+- Home page
+    * [Mobile]()
+    * [Tablet]()
+    * [Desktop]()
+
+- Bio page
+    * [Mobile]()
+    * [Tablet]()
+    * [Desktop]()
+
+- Tour page
+    * [Mobile]()
+    * [Tablet]()
+    * [Desktop]()
+
+- Media page
+    * [Mobile]()
+    * [Tablet]()
+    * [Desktop]()
+
+- Store page
+    * [Mobile]()
+    * [Tablet]()
+    * [Desktop]()
+
+- Contact page
+    * [Mobile]()
+    * [Tablet]()
+    * [Desktop]()
