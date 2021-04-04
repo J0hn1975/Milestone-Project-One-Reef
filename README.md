@@ -23,6 +23,8 @@ The major goals of this website for existings fans and potential fans is to prov
 
 ## Wireframes
 
+I decicded to use Balsamiq fot my wireframes as this was recommened by Code Institute. The wireframing process has helped me plan the overall look and feel of the site before any coding takes places. If any significant changes are made to the site during the coding process, new wireframes will be created to reflect these.
+
 - Home page
     * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Home.PNG)
     * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Home.PNG)
