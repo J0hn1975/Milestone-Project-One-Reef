@@ -1,9 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
 .img-fluid {
     height:auto;
     max-width: 100%;
+    
 }
 
-.navbar-custom {
-    background-color:red;
+.img-responsive {
+    display: block;
+    width: 100%;
+    max-height: 100%;
+}
 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: blue;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: blue;
+    display: block;
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: blue;
+    position: fixed;
+    bottom: 0;
 }
