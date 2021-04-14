@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -39,6 +41,26 @@
     
 }
 
+/*............................................Home page*/
+
+#intro {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+ #band {
+     margin-top: 20px;
+     font-family: 'Anton', sans-serif;
+     text-align: center;
+     font-size: 1.3rem;
+     letter-spacing: .1rem;
+ }
+
+ #band-bio {
+     text-align: center;
+     font-size: 1.1rem;
+     
+ }
+
 
 
 video { 
@@ -75,7 +97,6 @@ video {
 h1 {
   font-size: 3rem;
   text-transform: uppercase;
-  margin-top: -30px;
   letter-spacing: .3rem;
 }
 #biog button { 
