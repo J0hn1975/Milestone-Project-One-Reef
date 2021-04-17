@@ -18,6 +18,19 @@
     max-height: 100%;
 }
 
+.main-heading {
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+}
+
+.sub-heading {
+     margin-top: 20px;
+     font-family: 'Anton', sans-serif;
+     text-align: center;
+     font-size: 1.3rem;
+     letter-spacing: .1rem;
+    }
+
 /*............................................Navbar*/
 
 .custom-toggler.navbar-toggler {
@@ -44,17 +57,8 @@
 
 /*............................................Home page*/
 
-#intro {
-    text-align: center;
-    font-family: 'RocknRoll One', sans-serif;
-}
- #band {
-     margin-top: 20px;
-     font-family: 'Anton', sans-serif;
-     text-align: center;
-     font-size: 1.3rem;
-     letter-spacing: .1rem;
-    }
+
+ 
 
  #band-bio {
      text-align: center;
@@ -159,16 +163,16 @@ a {
 
 time.icon
 {
-  font-size: 1em; /* change icon size */
+  font-size: 1rem; /* change icon size */
   display: block;
   position: relative;
+  margin: 10px;
   width: 7em;
   height: 7em;
   background-color: #fff;
   border-radius: 0.6em;
   box-shadow: 0 1px 0 #bdbdbd, 0 2px 0 #fff, 0 3px 0 #bdbdbd, 0 4px 0 #fff, 0 5px 0 #bdbdbd, 0 0 0 1px #bdbdbd;
   overflow: hidden;
-  margin: 10px;
 }
 
 time.icon *
@@ -194,17 +198,26 @@ time.icon strong
 
 time.icon em
 {
+  margin-top: 5px;
   position: absolute;
-  bottom: 0.3em;
+  bottom: 3.2rem;
   color: #fd9f1b;
-}
+ }
 
 time.icon span
 {
-  font-size: 2.8em;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 1.6em;
   letter-spacing: -0.05em;
   padding-top: 0.8em;
   color: #2f2f2f;
+}
+
+time.icon p {
+    font-size: 1.1rem;
+    margin-top: -18px;
+    color: #fd9f1b;    
 }
 
 /*............................................Footer*/
@@ -214,6 +227,7 @@ time.icon span
     width: 100%;
     text-align: center;
     color: white;
+    
     bottom: 0;
     font-family: 'RocknRoll One', sans-serif;
     font-size: 24px;
