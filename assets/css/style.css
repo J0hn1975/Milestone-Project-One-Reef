@@ -57,10 +57,32 @@
 
 /*............................................Home page*/
 
+#calendar {
+    display: inline-block;
+}
 
- 
+.column {
+  float: left;
+  width: 25%;
+  
+  
+}
 
- #band-bio {
+.cta-button {
+  background-color: rgba(255,128,0);
+  color: #fff !important;
+  vertical-align: middle;
+}
+
+.cta-button:hover {
+background-color: rgba(255,153,51);
+}
+
+
+
+/*............................................Bio page*/
+
+.band-bio {
      text-align: center;
      font-size: 1.1rem;
      font-family: 'Antonio', sans-serif;
@@ -88,15 +110,7 @@
   padding-bottom: .8rem;
 }
 
- .cta-button {
-  background-color: rgba(255,128,0);
-  color: #fff !important;
-  vertical-align: middle;
-}
-
-.cta-button:hover {
-background-color: rgba(255,153,51);
-}
+ 
 
 
 
@@ -206,6 +220,7 @@ time.icon em
 
 time.icon span
 {
+   
   margin-top: 30px;
   margin-bottom: 10px;
   font-size: 1.6em;
@@ -231,5 +246,13 @@ time.icon p {
     bottom: 0;
     font-family: 'RocknRoll One', sans-serif;
     font-size: 24px;
+}
+
+/*............................................Media Queries*/
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
 
