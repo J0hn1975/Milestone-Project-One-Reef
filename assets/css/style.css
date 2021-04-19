@@ -57,16 +57,23 @@
 
 /*............................................Home page*/
 
-#calendar {
-    display: inline-block;
+.list-group-item {
+    text-align: center;
 }
 
-.column {
-  float: left;
-  width: 25%;
-  
-  
+.card-title {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
 }
+
+.button1 {
+    background-color: green;
+    width: 50%;
+    border-radius: 5px;
+}
+
+
+
 
 .cta-button {
   background-color: rgba(255,128,0);
@@ -77,6 +84,13 @@
 .cta-button:hover {
 background-color: rgba(255,153,51);
 }
+ 
+#calendar {
+    width: 100%;
+}
+
+
+   
 
 
 
@@ -203,11 +217,12 @@ time.icon strong
 {
   position: absolute;
   top: 0;
-  padding: 0.4em 0;
+  padding: 0.4em;
   color: #fff;
   background-color: #fd9f1b;
   border-bottom: 1px dashed #f37302;
   box-shadow: 0 2px 0 #fd9f1b;
+  
 }
 
 time.icon em
@@ -216,7 +231,8 @@ time.icon em
   position: absolute;
   bottom: 3.2rem;
   color: #fd9f1b;
- }
+  
+   }
 
 time.icon span
 {
@@ -251,8 +267,6 @@ time.icon p {
 /*............................................Media Queries*/
 
 @media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
+  
 }
 
