@@ -72,9 +72,6 @@
     border-radius: 5px;
 }
 
-
-
-
 .cta-button {
   background-color: rgba(255,128,0);
   color: #fff !important;
@@ -95,6 +92,18 @@ background-color: rgba(255,153,51);
 
 
 /*............................................Bio page*/
+#biog { 
+  position: absolute;  
+  top: 20%;
+  font-weight:100; 
+  background: rgba(0,0,0,0.1);
+  color: white;
+  width: 50%;
+  margin-top: 10px;
+  margin-left: 25%;
+  font-size: 1.2rem;
+  text-align: center;
+}
 
 .band-bio {
      text-align: center;
@@ -108,86 +117,16 @@ background-color: rgba(255,153,51);
      padding-right: 8rem;
  }
 
- .button-wrapper {
-  display: block;
-  text-align: center;
-}
-
-.button {
-  border: none;
-  border-radius: 1rem;
-  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
-  display: inline-block;
-  font-size: 1.5rem;
-  width: 25%;
-  margin-bottom: 1rem;
-  padding-bottom: .8rem;
-}
-
  
 
-
-
-video { 
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    transform: translateX(-50%) translateY(-50%);
- background: url('//demosthemes.info/assets/images/polina.jpg') no-repeat;
-  background-size: cover;
-  transition: 1s opacity;
-}
-.stopfade { 
-   opacity: .5;
-}
-
-#biog { 
-  font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
-  font-weight:100; 
-  background: rgba(0,0,0,0.3);
-  color: white;
-  padding: 2rem;
-  text-align: center;
-  width: 50%;
-  margin-top: 10px;
-  margin-left: 25%;
-  font-size: 1.2rem;
-  text-align: center;
-}
 h1 {
   font-size: 3rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
 }
-#biog button { 
-  display: block;
-  width: 80%;
-  padding: .4rem;
-  border: none; 
-  margin: 1rem auto; 
-  font-size: 1.3rem;
-  background: rgba(255,255,255,0.23);
-  color: #fff;
-  border-radius: 3px; 
-  cursor: pointer;
-  transition: .3s background;
-}
-#biog button:hover { 
-   background: rgba(0,0,0,0.5);
-}
 
-a {
-  display: inline-block;
-  color: #fff;
-  text-decoration: none;
-  padding: .5rem;
-  transition: .6s background; 
-}
+
+
 
 time.icon
 {
