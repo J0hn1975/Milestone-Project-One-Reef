@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
 
 * {
     margin: 0;
@@ -19,6 +20,7 @@
 }
 
 .main-heading {
+    margin-top: 15px;
     text-align: center;
     font-family: 'RocknRoll One', sans-serif;
 }
@@ -72,10 +74,24 @@
     border-radius: 5px;
 }
 
+.button-wrapper {
+    text-align: center;
+    
+}
+
 .cta-button {
   background-color: rgba(255,128,0);
   color: #fff !important;
   vertical-align: middle;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-bottom: .4rem;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 2rem;
+  vertical-align: middle;
+  
+  
 }
 
 .cta-button:hover {
@@ -190,22 +206,55 @@ time.icon p {
     color: #fd9f1b;    
 }
 
-/*............................................Footer*/
+/*............................................Contact*/
 
-.footer {
-    height: 50px;
-    width: 100%;
-    text-align: center;
-    color: white;
-    
-    bottom: 0;
-    font-family: 'RocknRoll One', sans-serif;
-    font-size: 24px;
+
+
+/* Style inputs */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+  
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
 }
 
-/*............................................Media Queries*/
+input[type=submit]:hover {
+  background-color: #45a049;
+}
 
-@media screen and (max-width: 600px) {
+/* Style the container/contact section */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+  width: 50%;
   
 }
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
