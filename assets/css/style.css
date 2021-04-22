@@ -97,6 +97,11 @@ background-color: rgba(255,153,51);
     margin-bottom: 10px;
 }
 
+iframe {
+    display: block;
+    margin: 0 auto;
+    }
+
 /*............................................Bio page*/
 #biog { 
   position: absolute;  
