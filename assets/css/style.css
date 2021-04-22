@@ -59,23 +59,18 @@
 
 /*............................................Home page*/
 
-.list-group-item {
-    text-align: center;
-}
+
 
 .card-title {
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
 
-.button1 {
-    background-color: green;
-    width: 50%;
-    border-radius: 5px;
-}
+
 
 .button-wrapper {
     text-align: center;
+    margin-bottom: 10px;
     
 }
 
@@ -98,8 +93,8 @@
 background-color: rgba(255,153,51);
 }
  
-#calendar {
-    width: 100%;
+.col {
+    margin-bottom: 10px;
 }
 
 /*............................................Bio page*/
@@ -292,7 +287,6 @@ time.icon p {
     bottom: 0;
     
 }
-
 
 
 
