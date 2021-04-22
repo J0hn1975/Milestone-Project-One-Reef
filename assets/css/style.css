@@ -102,11 +102,6 @@ background-color: rgba(255,153,51);
     width: 100%;
 }
 
-
-   
-
-
-
 /*............................................Bio page*/
 #biog { 
   position: absolute;  
@@ -208,53 +203,100 @@ time.icon p {
 
 /*............................................Contact*/
 
-
-
-/* Style inputs */
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-  
-
-input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  cursor: pointer;
+.wrapper {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-input[type=submit]:hover {
-  background-color: #45a049;
+.contact-us {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    background: rgba(0,0,0,0.1);
+    padding: 40px 50px;
+    border-radius: 5px;
 }
 
-/* Style the container/contact section */
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 10px;
-  width: 50%;
-  
+.title {
+    font-size: 2em;
+    line-height: 1.25em;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: #fff;
+    padding-bottom: 15px;
 }
 
-/* Create two columns that float next to eachother */
-.column {
-  float: left;
-  width: 50%;
-  margin-top: 6px;
-  padding: 20px;
+.input-fields {
+    padding: 0 30px;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.input-fields .items {
+    width: 100%;
+    padding-bottom: 15px; 
 }
+
+.input-fields .items .label {
+    display: block;
+    font-size: 1em;
+    color: #ffecb3;
+    text-transform: capitalize;
+    padding-bottom: 5px;
+}
+
+.input-fields .items .input,
+.input-fields .items .text-area {
+    background: transparent;
+    border: 0;
+    border: 1px solid #ffecb3;
+    width: 100%;
+    padding: 8px 10px;
+    font-size: 1em;
+    color: #ffecb3;
+    border-radius: 3px;
+    
+}
+
+.btn {
+    width: 86%;
+    margin: 0 30px;
+    background-color: rgba(255,128,0);
+    color: #ffecb3;
+    font-size: 1.25em;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+/*............................................Footer*/
+
+.footer {
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    font-family: 'RocknRoll One', sans-serif;
+    bottom: 0;
+    
+}
+
+
+
+
+
+
 
 
