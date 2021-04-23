@@ -97,10 +97,19 @@ background-color: rgba(255,153,51);
     margin-bottom: 10px;
 }
 
-iframe {
-    display: block;
-    margin: 0 auto;
-    }
+.column {
+  float: left;
+  width: 25%;
+  
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
 /*............................................Bio page*/
 #biog { 
@@ -292,8 +301,6 @@ time.icon p {
     bottom: 0;
     
 }
-
-
 
 
 
