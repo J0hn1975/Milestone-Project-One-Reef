@@ -23,14 +23,17 @@
     margin-top: 15px;
     text-align: center;
     font-family: 'RocknRoll One', sans-serif;
+    font-size: 30px;
 }
 
 .sub-heading {
      margin-top: 20px;
      font-family: 'Anton', sans-serif;
      text-align: center;
-     font-size: 1.3rem;
-     letter-spacing: .1rem;
+     font-size: 1.2rem;
+     letter-spacing: .2rem;
+     padding-left: 2rem;
+     padding-right: 2rem;
     }
 
     h6 {
@@ -141,8 +144,8 @@ background-color: rgba(255,153,51);
      font-size: 1.2rem;
      text-align: justify;
      letter-spacing: 1px;
-     padding-left: 8rem;
-     padding-right: 8rem;
+     padding-left: 2rem;
+     padding-right: 2rem;
  }
 
  
