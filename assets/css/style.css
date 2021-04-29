@@ -70,19 +70,15 @@
 
 /*............................................Home page*/
 
-
-
-.card-title {
+.card-title,
+.card-text {
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
 
-
-
 .button-wrapper {
     text-align: center;
     margin-bottom: 10px;
-    
 }
 
 .cta-button {
@@ -95,9 +91,7 @@
   border-radius: 10px;
   text-decoration: none;
   font-size: 2rem;
-  
-  
-  
+   
 }
 
 .cta-button:hover {
@@ -120,6 +114,26 @@ background-color: rgba(255,153,51);
   display: table;
   clear: both;
 }
+
+.list-group-item {
+    text-align: center;
+    font-weight: 700;
+    list-style-type: none;
+}
+
+.btn1 {
+    width: 40%;
+    padding-bottom: .2rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    background: green;
+
+    
+}
+
+
 
 
 /*............................................Bio page*/
@@ -159,67 +173,7 @@ h1 {
 
 
 
-time.icon
-{
-  font-size: 1rem; /* change icon size */
-  display: block;
-  position: relative;
-  margin: 10px;
-  width: 7em;
-  height: 7em;
-  background-color: #fff;
-  border-radius: 0.6em;
-  box-shadow: 0 1px 0 #bdbdbd, 0 2px 0 #fff, 0 3px 0 #bdbdbd, 0 4px 0 #fff, 0 5px 0 #bdbdbd, 0 0 0 1px #bdbdbd;
-  overflow: hidden;
-}
 
-time.icon *
-{
-  display: block;
-  width: 100%;
-  font-size: 1em;
-  font-weight: bold;
-  font-style: normal;
-  text-align: center;
-}
-
-time.icon strong
-{
-  position: absolute;
-  top: 0;
-  padding: 0.4em;
-  color: #fff;
-  background-color: #fd9f1b;
-  border-bottom: 1px dashed #f37302;
-  box-shadow: 0 2px 0 #fd9f1b;
-  
-}
-
-time.icon em
-{
-  margin-top: 5px;
-  position: absolute;
-  bottom: 3.2rem;
-  color: #fd9f1b;
-  
-   }
-
-time.icon span
-{
-   
-  margin-top: 30px;
-  margin-bottom: 10px;
-  font-size: 1.6em;
-  letter-spacing: -0.05em;
-  padding-top: 0.8em;
-  color: #2f2f2f;
-}
-
-time.icon p {
-    font-size: 1.1rem;
-    margin-top: -18px;
-    color: #fd9f1b;    
-}
 
 /*............................................Contact*/
 
@@ -294,6 +248,8 @@ time.icon p {
     cursor: pointer;
     letter-spacing: 2px;
 }
+
+
 
 
 
