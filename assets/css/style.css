@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
 
 * {
     margin: 0;
@@ -8,87 +8,81 @@
 }
 
 .img-fluid {
-    height:auto;
+    height: auto;
     max-width: 100%;
-    
-    
-    
 }
 
 .img-responsive {
     display: block;
     width: 100%;
     height: 100vh;
-    
 }
 
 .main-heading {
     margin-top: 15px;
     text-align: center;
-    font-family: 'RocknRoll One', sans-serif;
+    font-family: "RocknRoll One", sans-serif;
     font-size: 30px;
 }
 
 .sub-heading {
-     margin-top: 20px;
-     font-family: 'Anton', sans-serif;
-     text-align: center;
-     font-size: 1.1rem;
-     letter-spacing: .2rem;
-     padding-left: 2rem;
-     padding-right: 2rem;
-    }
+    margin-top: 20px;
+    font-family: "Anton", sans-serif;
+    text-align: center;
+    font-size: 1.1rem;
+    letter-spacing: 0.2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
 
-    h6 {
-        text-align: center;
-        font-family: 'Anton', sans-serif;
-        font-size: .9rem;
-        letter-spacing: .1rem;
-        text-transform: capitalize;
-    }
+h6 {
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+    text-transform: capitalize;
+}
 
 /*............................................Navbar*/
 
 .custom-toggler.navbar-toggler {
-  border-color: white;
+    border-color: white;
 }
 
 .custom-toggler .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
     color: white;
-    font-family: 'RocknRoll One', sans-serif;
+    font-family: "RocknRoll One", sans-serif;
     font-size: 24px;
 }
 
 .navbar-custom .navbar-nav .nav-link {
     color: white;
-    font-family: 'RocknRoll One', sans-serif;
+    font-family: "RocknRoll One", sans-serif;
     font-size: 24px;
-    
 }
 
 /*............................................Home page*/
 
 .band-intro {
-     text-align: center;
-     font-size: 1.1rem;
-     font-family: 'Antonio', sans-serif;
-     font-weight: 700;
-     font-size: 1.2rem;
-     text-align: justify;
-     letter-spacing: 1px;
-     padding-left: 2rem;
-     padding-right: 2rem;
-     
- }
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: "Antonio", sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-align: justify;
+    letter-spacing: 1px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
 
 .card-title,
 .card-text {
-    font-family: 'Anton', sans-serif;
+    font-family: "Anton", sans-serif;
     text-align: center;
 }
 
@@ -102,37 +96,35 @@
 }
 
 .cta-button {
-  background-color: rgba(255,128,0);
-  color: #fff !important;
-  vertical-align: middle;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-bottom: .4rem;
-  border-radius: 10px;
-  text-decoration: none;
-  font-size: 2rem;
-   
+    background-color: rgba(255, 128, 0);
+    color: #fff !important;
+    vertical-align: middle;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 0.4rem;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 2rem;
 }
 
 .cta-button:hover {
-background-color: rgba(255,153,51);
+    background-color: rgba(255, 153, 51);
 }
- 
+
 .col {
     margin-bottom: 10px;
 }
 
 .column {
-  float: left;
-  width: 25%;
-  
+    float: left;
+    width: 25%;
 }
 
 /* Clear floats after the columns */
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+    content: "";
+    display: table;
+    clear: both;
 }
 
 .list-group-item {
@@ -143,51 +135,33 @@ background-color: rgba(255,153,51);
 
 .btn1 {
     width: 40%;
-    padding-bottom: .2rem;
+    padding-bottom: 0.2rem;
     border-radius: 10px;
     font-size: 1rem;
     font-weight: 500;
     color: white;
     background: green;
-
-    
 }
 
 /*............................................Bio page*/
-.band-bio { 
-   
-  
-  
-  
-  
-  
-  width: 50%;
-  color: black;
-  margin-left: 25%;
-  font-size: 1.2rem;
-  text-align: justify;
-   padding-left: 2rem;
-     padding-right: 2rem;
-     font-family: 'Anton', sans-serif;
-     font-weight: 100;
-     letter-spacing: 1px;
-
+.band-bio {
+    width: 50%;
+    color: black;
+    margin-left: 25%;
+    font-size: 1.2rem;
+    text-align: justify;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: "Anton", sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
 }
-
-
-
- 
 
 h1 {
-  font-size: 3rem;
-  text-transform: uppercase;
-  letter-spacing: .3rem;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
 }
-
-
-
-
-
 
 /*............................................Contact*/
 
@@ -202,7 +176,7 @@ h1 {
     width: 100%;
     max-width: 500px;
     height: auto;
-    background: rgba(0,0,0,0.1);
+    background: rgba(0, 0, 0, 0.1);
     padding: 40px 50px;
     border-radius: 5px;
 }
@@ -224,7 +198,7 @@ h1 {
 
 .input-fields .items {
     width: 100%;
-    padding-bottom: 15px; 
+    padding-bottom: 15px;
 }
 
 .input-fields .items .label {
@@ -245,13 +219,12 @@ h1 {
     font-size: 1em;
     color: #ffecb3;
     border-radius: 3px;
-    
 }
 
 .btn {
     width: 86%;
     margin: 0 30px;
-    background-color: rgba(255,128,0);
+    background-color: rgba(255, 128, 0);
     color: #ffecb3;
     font-size: 1.25em;
     padding: 10px 0;
@@ -263,27 +236,15 @@ h1 {
     letter-spacing: 2px;
 }
 
-
-
-
-
-
-
-
-
-
 /*............................................Footer*/
 
 .footer {
-    
     bottom: 0;
     width: 100%;
     height: 50px;
     color: #fff;
     text-align: center;
-    font-family: 'RocknRoll One', sans-serif;
-    
-    
+    font-family: "RocknRoll One", sans-serif;
 }
 
 
