@@ -273,6 +273,25 @@ h1 {
     font-family: "RocknRoll One", sans-serif;
 }
 
+.fa-spotify {
+    color: green;
+    font-size: 30px;
+    margin-top: 10px;
+    
+}
+
+.fa-youtube-square {
+    color: red;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.fa-twitter-square {
+    color: #1DA1F2;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
 
 .bg-image {
     background-image: url('https://cdn.mos.cms.futurecdn.net/UQ7zvd3BrFLtXvuHVbPvBR.jpg');
