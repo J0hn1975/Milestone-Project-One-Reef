@@ -145,6 +145,69 @@ h6 {
     background: green;
 }
 
+#myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+
+/* Quantity Counter */
+.counter {
+    
+    margin-left: 80%;
+    display: flex;
+    justify-content: center;
+}
+.counter input {
+    width: 50px;
+    border: 0;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: center;
+    background: #0052cc;
+    color: #fff;
+    appearance: none;
+    outline: 0;
+}
+.counter span {
+    display: block;
+    font-size: 25px;
+    padding: 0 10px;
+    cursor: pointer;
+    color: #0052cc;
+    user-select: none;
+}
+
+#dropdown-menu {
+    margin-left: 10px;
+    width: 30%;
+    float: left;
+           
+}
+
+#sub-menu{
+    width: 30%;
+   margin-left: 25px;
+
+}
+
+#quantity {
+    margin-top: -38px;
+    margin-right: 10px;
+    width: 15%;
+    float: right;
+    
+    
+}
+
+
+
+
+
+
+
 /*............................................Bio page*/
 .band-bio {
     width: 50%;
