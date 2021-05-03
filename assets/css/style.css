@@ -1,6 +1,9 @@
+
+
 @import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+
 
 * {
     margin: 0;
@@ -115,20 +118,6 @@ h6 {
     margin-bottom: 10px;
 }
 
-.column {
-    float: left;
-    width: 25%;
-    
-    
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 .list-group-item {
     text-align: center;
     font-weight: 700;
@@ -198,9 +187,10 @@ h6 {
     margin-right: 10px;
     width: 15%;
     float: right;
-    
+ 
     
 }
+
 
 
 
@@ -230,11 +220,15 @@ h1 {
 
 /*............................................Media*/
 
+h6 {
+    margin-top: 10px;
+}
+
+
 .resp-container {
     position: relative;
     overflow: hidden;
     padding-top: 56.25%;
-    
     
 }
 
@@ -244,12 +238,38 @@ h1 {
     margin-left: 15%;
     width: 70%;
     height: 75%;
-    border: 0;
+    border-radius: 10px;
+    margin-top: 20px;
 }
 
-.video-container {
-    margin-top: 30px;
+.resp-container> p {
+    text-align: center;
+    color: red;
+    font-family: "Anton", sans-serif;
+    font-size: 1.1rem;
 }
+
+
+
+
+
+.video-card {
+  background-color: dodgerblue;
+  color: white;
+  padding: 1rem;
+  height: auto;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.video-cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
 
 /*............................................Contact*/
 
@@ -360,6 +380,19 @@ h1 {
     background-image: url('https://cdn.mos.cms.futurecdn.net/UQ7zvd3BrFLtXvuHVbPvBR.jpg');
     background-repeat: no-repeat;
 }
+
+
+/*............................................Media Queries*/
+
+@media (min-width: 600px) {
+  .video-cards { grid-template-columns: repeat(4, 29rem); 
+margin-left:8px;}
+  }
+
+
+    
+
+
 
 
 
