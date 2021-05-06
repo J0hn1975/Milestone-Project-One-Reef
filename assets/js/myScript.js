@@ -31,7 +31,10 @@ function decreaseCount(a, b) {
 var tickets = {
     HackneyEmpire: ["Monday 6th", "Tuesday 7th", "Wednesday 8th"],
     FirstDirectArena: ["Friday 10th", "Saturday 11th", "Monday 13th"],
-    TheSSEHydro: ["Wednesday 15th", "Thursday 16th", "Friday 17th", "Tea"]
+    TheSSEHydro: ["Wednesday 15th", "Thursday 16th", "Friday 17th"],
+    Replenish: ["CD"],
+    Revelation: ["CD"],
+    Rides: ["CD"],
 }
 
     function changecat(value) {
