@@ -1,30 +1,31 @@
-
-
 @import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
 
+/*............................................Special headings*/
 
 * {
     margin: 0;
     padding: 0;
 }
 
+/*............................................Navbar*/
 
-
+/* Responsive image */
 .img-responsive {
     display: block;
     width: 100%;
     height: 100vh;
 }
 
+/* Headings for Home and Bio Page */
 .main-heading {
     margin-top: 15px;
     text-align: center;
     font-family: "RocknRoll One", sans-serif;
     font-size: 30px;
 }
-
+/* Sub Headings for Home and Bio Page */
 .sub-heading {
     margin-top: 20px;
     font-family: "Anton", sans-serif;
@@ -35,6 +36,7 @@
     padding-right: 2rem;
 }
 
+/* Card headings */
 h6 {
     text-align: center;
     font-family: "Anton", sans-serif;
@@ -45,14 +47,16 @@ h6 {
 
 /*............................................Navbar*/
 
+/* Hamburger menu */
 .custom-toggler.navbar-toggler {
     border-color: white;
 }
-
+/* Hamburger menu three line */
 .custom-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
+/*Custom style for Navbar brand and nav text */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
     color: white;
@@ -60,6 +64,7 @@ h6 {
     font-size: 24px;
 }
 
+/* Style for Nav links */
 .navbar-custom .navbar-nav .nav-link {
     color: white;
     font-family: "RocknRoll One", sans-serif;
@@ -68,6 +73,7 @@ h6 {
 
 /*............................................Home page*/
 
+/* Band bio text */
 .band-intro {
     text-align: center;
     font-size: 1.1rem;
@@ -80,21 +86,25 @@ h6 {
     padding-right: 2rem;
 }
 
+/* Cards for Home page */
 .card-title,
 .card-text {
     font-family: "Anton", sans-serif;
     text-align: center;
 }
 
+/* Cards title for Home page */
 .card-title {
     height: -50px;
 }
 
+/* cta buttom wrapper */
 .button-wrapper {
     text-align: center;
     margin-bottom: 10px;
 }
 
+/* Styles for cta button */
 .cta-button {
     background-color: rgba(255, 128, 0);
     color: #fff !important;
@@ -106,7 +116,7 @@ h6 {
     text-decoration: none;
     font-size: 2rem;
 }
-
+/* Hover style for cta button */
 .cta-button:hover {
     background-color: rgba(255, 153, 51);
 }
@@ -115,22 +125,13 @@ h6 {
     margin-bottom: 10px;
 }
 
+/* List groups for cards */
 .list-group-item {
     text-align: center;
     font-weight: 700;
     list-style-type: none;
 }
-
-.btn1 {
-    width: 40%;
-    padding-bottom: 0.2rem;
-    border-radius: 10px;
-    font-size: 1rem;
-    font-weight: 500;
-    color: white;
-    background: green;
-}
-
+/* Modal button */
 .btn2 {
     width: 40%;
     margin: 0 auto;
@@ -140,28 +141,6 @@ h6 {
     padding-bottom: 4px;
     border-radius: 5px;
 }
-
-#dropdown-menu {
-    margin-left: 10px;
-    width: 30%;
-    float: left;
-           
-}
-
-#sub-menu{
-    width: 30%;
-   margin-left: 25px;
-
-}
-
-
-
-
-
-
-
-
-
 
 /*............................................Bio page*/
 
