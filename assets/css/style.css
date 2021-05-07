@@ -167,6 +167,61 @@ h6 {
 
 
 /*............................................Bio page*/
+
+.hero {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(https://2.bp.blogspot.com/-EABnwllXz8Q/XA2DbwjDYuI/AAAAAAABJjE/lB7lM-YzIkoZ9aw3dqmCMh_RSlbnNmOPwCKgBGAs/s1600/IMG_4123.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    filter: brightness(60%);
+}
+
+.hero-content {
+    position: relative;
+}
+
+.hero {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content {
+    position: absolute; 
+    font-family: "Monserrat", sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0.625rem;
+}
+.hero-title {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-top: 10rem;
+}
+.hero-subtitle {
+    font-size: 3rem;
+    font-weight: 200;
+    margin-top: 1rem;
+    font-family: "RocknRoll One", sans-serif;
+}
+
+
+
 .band-bio {
     width: 50%;
     color: black;
@@ -180,22 +235,30 @@ h6 {
     letter-spacing: 1px;
 }
 
-/* Collaspable menu */
+
+
+/* Style the button that is used to open and close the collapsible content */
 .collapsible {
-  background-color: #eee;
-  color: #444;
+  background-color: rgba(0, 0, 0, 0.3);
   cursor: pointer;
   padding: 18px;
-  width: 100%;
+  width: 60%;
   border: none;
-  text-align: left;
+  text-align: center;
   outline: none;
-  font-size: 15px;
+  font-size: 2rem;
+  font-family: "Anton", sans-serif;
+  color: white;
+  letter-spacing: 3px;
+  border-radius: 5px;
+  
+  
 }
+
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
-  background-color: #ccc;
+  background-color:rgba(204, 204, 204, 0.3);
 }
 
 /* Style the collapsible content. Note: hidden by default */
@@ -203,7 +266,12 @@ h6 {
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: rgba(241, 241, 241, 0.3);
+  width: 60%;
+  margin-left: 20%;
+  color: white;
+  font-family: "Anton", sans-serif;
+  font-size: 1.3rem;
 }
 
 h1 {
