@@ -55,4 +55,5 @@ HTML Validation
 
 I have used the W3C CSS Validation tool to check that my html is valid.
 
-Please see results ![HTML Validation](assets/docs/html-validation/html-validation.PNG)
+HTML validation passed with 0 errors 
+* [HTML Validation](assets/docs/html-validation/html-validation.PNG)
