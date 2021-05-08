@@ -1,4 +1,6 @@
 # Milestone Project One - Reef
+![Responsive Mockup](assets/docs/mockup/responsive-mockup.PNG)
+
 https://j0hn1975.github.io/Milestone-Project-One-Reef/
 ## Overview
 A website based on a British rock band called Reef. This site is consists of a Home page, a biography of the band - including a brief history of the band and an intro to it's members, a tour page, a media page - which will contain pictures and videos, a store page selling the bands merchandise and finally, a contact page where the site visitors can book the band.
@@ -45,3 +47,12 @@ I decicded to use Balsamiq fot my wireframes as this was recommened by Code Inst
     * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Contact.PNG)
     * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Contact.PNG)
     * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Contact.PNG)
+
+
+## Testing
+
+HTML Validation
+
+I have used the W3C CSS Validation tool to check that my html is valid.
+
+Please see results ![HTML Validation](assets/docs/html-validation/html-validation.PNG)
