@@ -41,7 +41,7 @@ I decicded to use Balsamiq fot my wireframes as this was recommened by Code Inst
     * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Media.PNG)
     * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Media.PNG)
 
-- Contact page
+- Bookings Page
     * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Contact.PNG)
     * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Contact.PNG)
     * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Contact.PNG)
