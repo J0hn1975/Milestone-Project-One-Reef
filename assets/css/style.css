@@ -144,93 +144,7 @@ h6 {
 
 /*............................................Bio page*/
 
-
-
-.hero::before {
-    content: "";
-    position: absolute;
-    
-    
-    height: 100%;
-    background: url(https://2.bp.blogspot.com/-EABnwllXz8Q/XA2DbwjDYuI/AAAAAAABJjE/lB7lM-YzIkoZ9aw3dqmCMh_RSlbnNmOPwCKgBGAs/s1600/IMG_4123.JPG);
-    
-   
-    filter: brightness(60%);
-}
-
-
-
-.bcimg {
-    
-    background-size: cover;
-    background-position: center center;
-    background: url(https://2.bp.blogspot.com/-EABnwllXz8Q/XA2DbwjDYuI/AAAAAAABJjE/lB7lM-YzIkoZ9aw3dqmCMh_RSlbnNmOPwCKgBGAs/s1600/IMG_4123.JPG);
-    background-repeat: no-repeat;
-    height: 100%;
-    
-    
-    
-}
-
-.img-wrapper {
-  position:relative;
-  width:100%;
-  height:100%;
-  
-}
-
-.divimage {  
-  position:absolute;
-  top:0;
-  left:0;
-  width:100%;
-  height:100%;
-  background: url(https://2.bp.blogspot.com/-EABnwllXz8Q/XA2DbwjDYuI/AAAAAAABJjE/lB7lM-YzIkoZ9aw3dqmCMh_RSlbnNmOPwCKgBGAs/s1600/IMG_4123.JPG);
-  background-repeat:no-repeat;
-  background-size:100% auto;
-
-}
-
-.divtext {
-  position:absolute;
-  top:0;
-  left:0;
-  width:100%;
-  padding-top:13.5%;  
-  text-align:center;
-  font-weight:bold;
-  font-size:5vw;
-  color:white;
-  font-family:arial;
-}
-
-.hero-content {
-    position: absolute; 
-    font-family: "Monserrat", sans-serif;
-    color: white;
-    text-align: center;
-    margin: 0.625rem;
-}
-.hero-title {
-    font-size: 3rem;
-    font-weight: 600;
-    margin-top: -20px;
-   
-}
-.hero-subtitle {
-    
-    position: relative;
-    font-size: 10px;
-    font-family: "RocknRoll One", sans-serif;
-    text-align: justify;
-    top: 0;
-    
-}
-
-
-
-
-
+/* Style for band biography text */
 .band-bio {
     width: 50%;
     color: black;
@@ -243,46 +157,7 @@ h6 {
     font-weight: 100;
     letter-spacing: 1px;
 }
-
-
-
-/* Style the button that is used to open and close the collapsible content */
-.collapsible {
-  background-color: rgba(0, 0, 0, 0.3);
-  cursor: pointer;
-  padding: 18px;
-  width: 60%;
-  border: none;
-  text-align: center;
-  outline: none;
-  font-size: 2rem;
-  font-family: "Anton", sans-serif;
-  color: white;
-  letter-spacing: 3px;
-  border-radius: 5px;
-  
-  
-}
-
-
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
-  background-color:rgba(204, 204, 204, 0.3);
-}
-
-/* Style the collapsible content. Note: hidden by default */
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: rgba(241, 241, 241, 0.3);
-  width: 60%;
-  margin-left: 20%;
-  color: white;
-  font-family: "Anton", sans-serif;
-  font-size: 1.3rem;
-}
-
+ /* Main headings for bio page */
 h1 {
     font-size: 3rem;
     text-transform: uppercase;
@@ -290,7 +165,7 @@ h1 {
 }
 
 /*............................................Media*/
-
+/* Image style for masonry layout */
 img {
 	max-width: 100%;
 	height: auto;
@@ -304,6 +179,8 @@ img {
 	justify-content: center;
 	align-items: center;
 }
+
+
 .grid-wrapper > div > img {
 	width: 100%;
 	height: 100%;
@@ -329,25 +206,18 @@ img {
 	grid-row: span 2;
 }
 
-
-
-
-
-
-
 h6 {
     margin-top: 10px;
 }
 
-
+/* To make videos reponsive within container" */
 .resp-container {
     position: relative;
     overflow: hidden;
     padding-top: 56.25%;
-   
-    
 }
 
+/* To make iframes responsive */
 .resp-iframe {
     position: absolute;
     top: 0;
@@ -358,6 +228,7 @@ h6 {
     margin-top: 20px;
 }
 
+/* Style paragraphs for video containers */
 .resp-container> p {
     text-align: center;
     color: red;
@@ -365,10 +236,7 @@ h6 {
     font-size: 1.1rem;
 }
 
-
-
-
-
+/* Style for video cards */
 .video-card {
   background-color: dodgerblue;
   color: white;
@@ -379,23 +247,22 @@ h6 {
   align-content: center;
 }
 
+/* Video card conatiner */
 .video-cards {
-  
-  
   display: grid;
   grid-gap: 1rem;
-  
 }
 
 
 /*............................................Booking*/
 
+/* Booking form conainter */
 h5 {
     text-align: center;
     color: white;
 }
 
-
+/* Main form wrapper */
 .form-wrapper{
   position: absolute;
   top: 50%;
@@ -409,27 +276,32 @@ h5 {
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
+/* To style titles on form */
 .form-wrapper .title h1{
   color: #c5ecfd;
   text-align: center;
   margin-bottom: 25px;
 }
 
+/* To align contact form */
 .contact-form{
   display: flex;
 }
 
+/* Overall style for input fields */
 .input-fields{
   display: flex;
   flex-direction: column;
   margin-right: 4%;
 }
 
+/* Style for message field */
 .input-fields,
 .msg{
   width: 48%;
 }
 
+/* Add style and margin to text area */
 .input-fields .input,
 .msg textarea{
   margin: 10px 0;
@@ -441,9 +313,11 @@ h5 {
   width: 100%;
 }
 
+/* Add height to message text area */
 .msg textarea{
   height: 212px;
 }
+
 
 ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
@@ -457,7 +331,7 @@ h5 {
   /* IE 10+ */
   color: #c5ecfd;
 }
-
+ /* Message send button */
 .btn {
     background: #39b7dd;
     text-align: center;
@@ -468,14 +342,10 @@ h5 {
     text-transform: uppercase;
 }
 
-
-
-
-
 /*............................................Footer*/
 
+/* Main footer style */
 .footer {
-    
     bottom: 0;
     width: 100%;
     height: 50px;
@@ -484,6 +354,7 @@ h5 {
     font-family: "RocknRoll One", sans-serif;
 }
 
+/* Font awesome icon for Spotify */
 .fa-spotify {
     color: green;
     font-size: 30px;
@@ -491,34 +362,29 @@ h5 {
     
 }
 
+/* Font awesome icon for You Tube */
 .fa-youtube-square {
     color: red;
     font-size: 30px;
     margin-top: 10px;
 }
 
+/* Font awesome icon for Twitter */
 .fa-twitter-square {
     color: #1DA1F2;
     font-size: 30px;
     margin-top: 10px;
 }
 
-
-.bg-image {
-    background-image: url('https://cdn.mos.cms.futurecdn.net/UQ7zvd3BrFLtXvuHVbPvBR.jpg');
-    background-repeat: no-repeat;
-}
-
-
 /*............................................Media Queries*/
 
-
+/* To make video cards responsive */
 @media (min-width: 600px) {
   .video-cards { grid-template-columns: repeat(3, 29rem); 
 margin-left:8px;}
   }
 
-/*.................................Contact form*/
+/* To make contact form responsive */
 @media screen and (max-width: 600px){
   .contact-form{
     flex-direction: column;
