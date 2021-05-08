@@ -107,7 +107,7 @@ h6 {
 /* Styles for cta button */
 .cta-button {
     background-color: rgba(255, 128, 0);
-    color: #fff !important;
+    color: blue;
     vertical-align: middle;
     padding-left: 2rem;
     padding-right: 2rem;
