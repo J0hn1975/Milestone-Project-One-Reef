@@ -36,20 +36,10 @@ I decicded to use Balsamiq fot my wireframes as this was recommened by Code Inst
     * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Bio.PNG)
     * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Bio.PNG)
 
-- Tour page
-    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Tour.PNG)
-    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Tour.PNG)
-    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Tour.PNG)
-
 - Media page
     * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Media.PNG)
     * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Media.PNG)
     * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Media.PNG)
-
-- Store page
-    * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Store.PNG)
-    * [Tablet](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/tablet/Store.PNG)
-    * [Desktop](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/desktop/Store.PNG)
 
 - Contact page
     * [Mobile](https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/wireframes/mobile/Contact.PNG)
