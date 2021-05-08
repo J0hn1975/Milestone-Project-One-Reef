@@ -260,9 +260,16 @@ h6 {
 /*............................................Booking*/
 
 /* Booking form conainter */
-h5 {
+.carousel-caption {
     text-align: center;
-    color: white;
+    color: yellow;
+    font-size: 20px;
+    
+}
+
+.band {
+    color:yellow"
+
 }
 
 /* Main form wrapper */
