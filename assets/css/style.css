@@ -318,8 +318,6 @@ h5 {
   height: 212px;
 }
 
-
-
  /* Message send button */
 .btn {
     background: #39b7dd;
@@ -332,6 +330,15 @@ h5 {
 }
 
 /*............................................Footer*/
+
+.sr-only{
+   position:absolute;
+   left:-10000px;
+   top:auto;
+   width:1px;
+   height:1px;
+   overflow:hidden;
+}
 
 /* Main footer style */
 .footer {
