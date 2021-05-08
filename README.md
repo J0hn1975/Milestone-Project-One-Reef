@@ -57,3 +57,6 @@ I have used the W3C CSS Validation tool to check that my html is valid.
 
 HTML validation passed with 0 errors 
 * [HTML Validation](assets/docs/html-validation/html-validation.PNG)
+
+WAVE accessibiilty passed with 0 errors]
+* [Wave validation](assets/docs/accessibilty/accessibilty.PNG)
