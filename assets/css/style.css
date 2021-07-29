@@ -11,6 +11,10 @@
 
 /*............................................Navbar*/
 
+.bg-dark {
+  background-color: #292929;
+}
+
 /* Responsive image */
 .img-responsive {
     display: block;
@@ -59,14 +63,14 @@ h6 {
 /*Custom style for Navbar brand and nav text */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: white;
+    color: #88B6FC;
     font-family: "RocknRoll One", sans-serif;
     font-size: 24px;
 }
 
 /* Style for Nav links */
 .navbar-custom .navbar-nav .nav-link {
-    color: white;
+    color: #88B6FC;
     font-family: "RocknRoll One", sans-serif;
     font-size: 24px;
 }
@@ -386,9 +390,10 @@ margin-left:8px;}
   }
 
 /* To make contact form responsive */
-@media screen and (max-width: 600px){
+@media screen and (min-width: 320px) and (max-width: 599px) {
   .contact-form{
     flex-direction: column;
+    position: relative;
   }
   .msg textarea{
     height: 80px;
@@ -396,6 +401,18 @@ margin-left:8px;}
   .input-fields,
   .msg{
     width: 100%;
+  }
+  .form-wrapper {
+  position: relative;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -25%);
+  width: 100%;
+  max-width: 550px;
+  background: rgba(0,0,0,0.8);
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
   }
 }
 
