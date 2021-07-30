@@ -9,6 +9,12 @@
     padding: 0;
 }
 
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+  
+}
+
 /*............................................Navbar*/
 
 .bg-dark {
@@ -201,6 +207,10 @@ img {
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 	grid-auto-rows: 200px;
 	grid-auto-flow: dense;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 .grid-wrapper .wide {
 	grid-column: span 2;
