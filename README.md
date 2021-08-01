@@ -506,8 +506,10 @@ Clone site locally
 ---
 
 # Credits
-> * Quiz and JS credited to The Webshala - https://www.youtube.com/watch?v=J8QbjXdVl9c
-> * Contact form and validation JS credited to Coding Market https://www.youtube.com/watch?v=WY4rvU4ImgE
+> * Select menu used on Home (index.html) page credited to - http://jsfiddle.net/k148pk76/1/
+> * Masonry layout credited to Saief Al Emon - https://codepen.io/iamsaief/pen/jObaoKo
+> * Contact form credited to Coding Market - https://www.youtube.com/watch?v=l_Z3N3etkS0
+> * Responsive column layout used on Media page credited to Travis Horn - https://travishorn.com/responsive-grid-in-2-minutes-with-css-grid-layout-4842a41420fe
 
 # Acknowledgements
 > * Mo Shami for his external patience and guidance
