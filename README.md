@@ -36,8 +36,8 @@ The main purpose of the site is for existing fans but also for new fans who are 
 > 11. [Acknowledgements](#acknowledgements)
 
 ## Target Audience
-> * New holiday makers keens to experience island life
-> * Visitors who are interested in the natural beauty the island has to offer
+> * New fans who want to find out more about the band, listen to their music and watch videos.
+> * Existing fans wanting to find out about new tour dates, music and merchandise from the band
 
 # The 5 Planes of UX
 ## Stratergy
