@@ -16,6 +16,13 @@
 }
 
 /*............................................Navbar*/
+.navbar-custom .nav-item.active .nav-link, .navbar-custom .nav-item:hover .nav-link {
+  color: #ffffff;
+ }
+
+ .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-text {
+  color: #ffffff;
+}
 
 .bg-dark {
   background-color: #292929;
