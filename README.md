@@ -44,14 +44,14 @@ The main purpose of the site is for existing fans but also for new fans who are 
 ## Project Goals
 ---
 The primary business goals of this site are:
-> * To promote the island of Santorini
-> * Increase the number of vistors to the island
-> * Provide inspiration for Santorini as a holiday destination
+> * To promote the bands music and merchandise
+> * Increase the overall fan base
+> * Sell tickets for upcoming tour dates
 
 The primary cusomter goals of this site are:
-> * Learn more about the island before visting
-> * Contact the site owner with any additional questions or queries
-> * Be inspired to choose Santorini as a viable holiday destination
+> * To learn more about the band.
+> * Find out when the band are on tour and book tickets.
+> * Purchase music and merchandise.
 
 ## Scope
 ## User Stories
