@@ -3,27 +3,29 @@
 @import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
 
 /*............................................Special headings*/
-
 * {
     margin: 0;
     padding: 0;
 }
 
+/* Switch off left / right padding */
 .container-fluid {
   padding-left: 0;
   padding-right: 0;
-  
 }
 
 /*............................................Navbar*/
+/* Change hover colour of nav links */
 .navbar-custom .nav-item.active .nav-link, .navbar-custom .nav-item:hover .nav-link {
   color: #ffffff;
  }
 
- .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-text {
+ /* Change hover colour of navbar brand */
+.navbar-custom .navbar-brand:hover, .navbar-custom .navbar-text {
   color: #ffffff;
 }
 
+/* Change background colour of nav bar */
 .bg-dark {
   background-color: #292929;
 }
@@ -42,6 +44,7 @@
     font-family: "RocknRoll One", sans-serif;
     font-size: 30px;
 }
+
 /* Sub Headings for Home and Bio Page */
 .sub-heading {
     margin-top: 20px;
@@ -62,12 +65,11 @@ h6 {
     text-transform: capitalize;
 }
 
-/*............................................Navbar*/
-
 /* Hamburger menu */
 .custom-toggler.navbar-toggler {
     border-color: white;
 }
+
 /* Hamburger menu three line */
 .custom-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
@@ -89,7 +91,6 @@ h6 {
 }
 
 /*............................................Home page*/
-
 /* Band bio text */
 .band-intro {
     text-align: center;
@@ -114,7 +115,6 @@ h6 {
 /* Cards title for Home page */
 .card-title {
     height: -50px;
-    
 }
 
 /* cta buttom wrapper */
@@ -135,11 +135,13 @@ h6 {
     text-decoration: none;
     font-size: 2rem;
 }
+
 /* Hover style for cta button */
 .cta-button:hover {
     background-color: rgba(255, 153, 51);
 }
 
+/* Add margin to bottom of columns */
 .col {
     margin-bottom: 10px;
 }
@@ -151,6 +153,7 @@ h6 {
     list-style-type: none;
     color: blue;
 }
+
 /* Modal button */
 .btn2 {
     width: 40%;
@@ -177,6 +180,7 @@ h6 {
     font-weight: 100;
     letter-spacing: 1px;
 }
+
  /* Main headings for bio page */
 h1 {
     font-size: 3rem;
@@ -185,15 +189,19 @@ h1 {
 }
 
 /*............................................Media*/
+/* Style main grid wrapper for videos */
 .gridWrap {
   display: grid;
   grid-template-columns: auto auto;
   width: 100%;
 }
+
+/* Change background colour of grid columns */
 .gridCol {
   padding: 10px;
   background: #f3ffe0;
 }
+
 /* Image style for masonry layout */
 img {
 	max-width: 100%;
@@ -202,14 +210,14 @@ img {
 	display: inline-block;
 }
 
-/* Main CSS */
+/* Main div for masonry layout */
 .grid-wrapper > div {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
-
+/* Sizes of image for masonry layout */
 .grid-wrapper > div > img {
 	width: 100%;
 	height: 100%;
@@ -217,6 +225,7 @@ img {
 	border-radius: 5px;
 }
 
+/* Main wrapper for masonry layout */
 .grid-wrapper {
 	display: grid;
 	grid-gap: 10px;
@@ -228,17 +237,24 @@ img {
   margin-right: 10px;
   margin-bottom: 10px;
 }
+
+/* Wide images for masonry layout */
 .grid-wrapper .wide {
 	grid-column: span 2;
 }
+
+/* Tall images for masonry layout */
 .grid-wrapper .tall {
 	grid-row: span 2;
 }
+
+/* Big images for masonry layout */
 .grid-wrapper .big {
 	grid-column: span 2;
 	grid-row: span 2;
 }
 
+/* Main heading for each of the videos */
 h6 {
     margin-top: 10px;
 }
@@ -284,18 +300,14 @@ h6 {
   display: grid;
   grid-gap: 1rem;
   justify-content: center;
-  
 }
 
-
 /*............................................Booking*/
-
 /* Booking form conainter */
 .carousel-caption {
     text-align: center;
     color:cyan;
     font-size: 20px;
-    
 }
 
 /* Main form wrapper */
@@ -354,7 +366,7 @@ h6 {
   height: 212px;
 }
 
- /* Message send button */
+/* Message send button */
 .btn {
     background: #39b7dd;
     text-align: center;
@@ -367,6 +379,7 @@ h6 {
 
 /*............................................Footer*/
 
+/* Stop empty links on WAVE validation */
 .sr-only{
    position:absolute;
    left:-10000px;
@@ -391,7 +404,6 @@ h6 {
     color: green;
     font-size: 30px;
     margin-top: 10px;
-    
 }
 
 /* Font awesome icon for You Tube */
@@ -409,7 +421,7 @@ h6 {
 }
 
 /*............................................Media Queries*/
-
+/* To make masonry layout responsive */
 @media only screen and (max-width: 768px) {
   .gridWrap { grid-template-columns: 100%; }
 }
@@ -440,5 +452,3 @@ h6 {
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
   }
 }
-
-
