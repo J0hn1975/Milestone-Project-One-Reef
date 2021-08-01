@@ -515,7 +515,6 @@ Clone site locally
 > * Mo Shami for his external patience and guidance
 > * My partner who has not seen that much of me during MS2
 
-
 ## Testing
 
 HTML Validation
