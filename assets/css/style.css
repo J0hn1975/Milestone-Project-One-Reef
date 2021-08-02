@@ -314,7 +314,6 @@ h6 {
 }
 
 /*............................................Booking*/
-
 /* Booking form heading */
 .title {
   color: #88B6FC;
@@ -396,7 +395,6 @@ h6 {
 }
 
 /*............................................Footer*/
-
 /* Stop empty links flagging up on WAVE validation */
 .sr-only{
    position:absolute;
