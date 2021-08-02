@@ -150,7 +150,17 @@ Each page is design with very simple colours and images to showcase the island. 
 > - #009688 - used to style the quiz text.
 
 ## Typography
-For the most part of I have used the Titilium Web Google font, with a fallback of Sans Serif should Titilium Web not work.
+Throughout the site I have used 3 Google Fonts chosen for their modern, but clean look and readability. 
+All fonts below will fall back to Sans-Serif if Google Font cannot be read by browser.
+
+Nav links, navbar brand, h1 main-headings (Home and Bio page).
+> - [RocknRoll+One](https://fonts.google.com/specimen/RocknRoll+One?query=RocknRoll+One)  
+
+Sub heading (Home Page), h6 card headings, card title and text, p tags in video cards.
+> - [Anton](https://fonts.google.com/specimen/Anton?query=Anton)
+
+Band Intro
+> - [Antonio](https://fonts.google.com/specimen/Antonio?query=Antonio)
 
 ## Imagery
 Througout the site I have used clear images showcasing Santorini's natural beauty.
