@@ -74,8 +74,8 @@ The main goal of this site is to present useful information about the band on a 
 > 11. Display a contact form so the user can get in touch with the site owner
 > 12. Present the end user with a clear and simple navigaion menu
 > 13. A button on the 404 page that takes the user back to the Home page
-> 14. Display a map of Santorini
-> 15. An informtive biography about the band.
+> 14. A media page with a collection of videos and pictures.
+> 15. An informative biography about the band.
 ---
 
 ## Structure
