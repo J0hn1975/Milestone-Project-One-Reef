@@ -93,16 +93,52 @@ The website has been structured with 5 web pages (including a 404 error page). E
 To design and develop the wireframes I first used Balsamiq, then used Snipping Tools to create PNG versions. The wireframes images are designed to collaspe.
 
 ## Wireframes
-> <details><summary>Home Page</summary>
-> <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Home/Home.PNG">
+> <details><summary>Home Page (Desktop)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
 ></details>
 >
-> <details><summary>Quiz Page</summary>
-> <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Quiz/Quiz.PNG">
+> <details><summary>Bio Page (Desktop)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
 > </details>
 > 
-> <details><summary>Contact Page</summary>
-> <img src="https://github.com/J0hn1975/MS2-Santorini/blob/main/docs/Wireframes/Contact/Contact.PNG">
+> <details><summary>Media Page (Desktop)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> </details>
+>
+><details><summary>Bookings Page (Desktop)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> </details>
+>
+><details><summary>Home Page (Tablet)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+></details>
+>
+><details><summary>Bio Page (Tablet)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> </details>
+> 
+> <details><summary>Media Page (Tablet)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> </details>
+>
+><details><summary>Bookings Page (Tablet)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> </details>
+>
+><details><summary>Home Page (Mobile)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+></details>
+>
+><details><summary>Bio Page (Mobile)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> </details>
+> 
+> <details><summary>Media Page (Mobile)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> </details>
+>
+><details><summary>Bookings Page (Mobile)</summary>
+> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
 > </details>
 ---
 
