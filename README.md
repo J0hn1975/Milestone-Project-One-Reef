@@ -79,13 +79,14 @@ The main goal of this site is to present useful information about the band on a 
 ---
 
 ## Structure
-The website has been structured with 4 web pages. Each page is cleary designed, easy to navigate, and with well layed out information. With a mobile first approach in mind I have used bootstrap throughout to make the site respoinsive on mobile devices.
+The website has been structured with 5 web pages (including a 404 error page). Each page is cleary designed, easy to navigate, and with well layed out information. With a mobile first approach in mind I have used bootstrap throughout to make the site respoinsive on mobile devices.
 
 > The 4 pages are:
-> 1. Home Page: A welcome message, brief description of the island greet the user, as well as a map of where the island is located and the current weather forecast
-> 2. Quiz Page: A 10 question quiz on Santorini, with progess indicators for each question, right and wrong answers are higlighted, with a table at the end showing overall progress
-> 3. Contact Page: A contact page to allow the user to contact the site owner, warnings if the incorrect information has been entered and alert then the form is submitted.
-> 4. 404: This alerts users if they have entered an incorrect URL for the site. The user is presented with warning message, navbar and footer.
+> 1. Home Page: A carousel with 3 large clear images of the band, a brieft history of the band and intro to the band members, new tour dates anounced section, the latest video displayed, a new music section, classic Reef songs from back catalogue.
+> 2. Bio Page: A large clear image of the band is displayed along with a more detailed biography of the band and how they all first met and came to form Reef.
+> 3. Media Page: A page that has a single column of 3 videos displayed and pictures layed in masonry format.
+> 4. Bookings Page: A background image of the bass player with a contact form overlayed.
+> 5. 404: This alerts users if they have entered an incorrect URL for the site. The user is presented with warning message, navbar, footer and button to back to Home Page.
 ---
 
 ## Skeleton
