@@ -55,31 +55,27 @@ The primary cusomter goals of this site are:
 
 ## Scope
 ## User Stories
-As a new or returning visitor I would like to see:
+As a new fan of the band I would like to see:
 > 1.  A site that is easy and clear to navigate
-> 2.  A map of where Santorini is located
-> 3.  The current weather conditions in Santorini
-> 4.  External social media links to find out more about the island
-> 5.  An informative quiz where I can test my knowledge on Santorini
-> 6.  Feedback on which answers I have got right
-> 7.  A final page that displays how well did on the quiz
-> 8.  An option to close out of the final page or play quiz again
-> 9.  A contact page to get in touch with the site owner
-> 10. A site that responds and provides feedback on my interactions
-> 11. A site that I can interact with
-> 12. As a user I would like to see a responsive site that can be used on mobile devices
-> 13. An error page to show if I have enterted an incorrect URL
+> 2.  A biography of the band
+> 3.  A brief history of all the band members
+> 4.  Old and new songs from the band
+> 5.  An error page to show if I have enterted an incorrect URL
+
+As a existing fan of the band I would like to see:
+> 6.  Details of live performances.
+> 7.  The latest merchandide displayed prominently
+> 8.  Picture and videos of the band
+> 9.  A bookings page where I can book the band for my own events
+> 10. Music that I can purchase
 
 ## Site owner goals
-The main goal of this site is to present useful information about Santorini on a website that is easy to navigate
-> 14. Display a contact form so the user can get in touch with the site owner
-> 15. Present the end user with a clear and simple navigaion menu
-> 16. Display the current weather in Santorini
-> 17. Provide a quiz where the user can test their knowledge
-> 18. Make a site that is responsive across all devices.
-> 19. A site that provides feedback and validation.
-> 20. On the 404 page the user shouldn't use the broswer back but instead the nav bar.
-> 21. Display a map of Santorini
+The main goal of this site is to present useful information about the band on a website that is easy to navigate.
+> 11. Display a contact form so the user can get in touch with the site owner
+> 12. Present the end user with a clear and simple navigaion menu
+> 13. A button on the 404 page that takes the user back to the Home page
+> 14. Display a map of Santorini
+> 15. An informtive biography about the band.
 ---
 
 ## Structure
