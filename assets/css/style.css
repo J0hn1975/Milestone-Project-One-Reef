@@ -93,11 +93,18 @@ h6 {
 /*............................................404 page*/
 /* Error 404 page background image */
 .image-404 {
-  background-image: url("https://thumbs.dreamstime.com/b/dums-amplifier-empty-stage-music-instruments-drums-guitar-illuminated-blue-red-lights-47891178.jpg");
+  background-image: url("https://previews.123rf.com/images/maxoidos/maxoidos1412/maxoidos141200010/34272628-rock-concert-stage-with-musical-instruments-in-nightclub.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   height: 800px;
+}
+
+/* Error 404 paragraph tags */
+.image-404 p {
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
 }
 
 /*............................................Home page*/
