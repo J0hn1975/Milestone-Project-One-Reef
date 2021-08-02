@@ -94,51 +94,51 @@ To design and develop the wireframes I first used Balsamiq, then used Snipping T
 
 ## Wireframes
 > <details><summary>Home Page (Desktop)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/desktop/Home.PNG">
 ></details>
 >
 > <details><summary>Bio Page (Desktop)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/desktop/Bio.PNG">
 > </details>
 > 
 > <details><summary>Media Page (Desktop)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/desktop/Media.PNG">
 > </details>
 >
 ><details><summary>Bookings Page (Desktop)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/desktop/Contact.PNG">
 > </details>
 >
 ><details><summary>Home Page (Tablet)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/tablet/Home.PNG">
 ></details>
 >
 ><details><summary>Bio Page (Tablet)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/tablet/Bio.PNG">
 > </details>
 > 
 > <details><summary>Media Page (Tablet)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/tablet/Media.PNG">
 > </details>
 >
 ><details><summary>Bookings Page (Tablet)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/tablet/Contact.PNG">
 > </details>
 >
 ><details><summary>Home Page (Mobile)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/mobile/Home.PNG">
 ></details>
 >
 ><details><summary>Bio Page (Mobile)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/mobile/Bio.PNG">
 > </details>
 > 
 > <details><summary>Media Page (Mobile)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/mobile/Media.PNG">
 > </details>
 >
 ><details><summary>Bookings Page (Mobile)</summary>
-> <img src="https://amethyst-llama-4eitamnq.ws-eu13.gitpod.io/">
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/assets/docs/wireframes/mobile/Contact.PNG">
 > </details>
 ---
 
@@ -546,7 +546,7 @@ Clone site locally
 
 # Acknowledgements
 > * Mo Shami for his external patience and guidance
-> * My partner who has not seen that much of me during MS2
+> * My partner Laura who has not seen that much of me during MS1
 
 ## Testing
 
