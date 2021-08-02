@@ -472,14 +472,14 @@ Overall results:
 ---
 
 # Bugs
-> **Bug** Contact form initially didn't push down when using mobile nav  
-> **Fix** Changed **poistion: absolute;** to **postion: relative**. Changed **top:50%** to **top:25%**. Changed **transform: translate(-50%,50%);** to **transform: translate(-50%,25%);**
+> **Bug**  Mobile nav not pushing content down - all pages.  
+> **Fix** Added JS Boostrap 5 CDN to bottom of all pages
 >
-> **Bug** Small gap at top of page between bottom of nav bar and top of quiz.  
-> **Fix** Changed **margin: 40px auto;** to **margin: auto;** on .custom box CSS class  
+> **Bug** Social links not opening in separate tab. 
+> **Fix** Added **target="_blank"**
 >
-> **Bug** Content map, heading-left doesn't push down on mobile nav  
-> **Fix** Changed **position : absolute;** to **position: relative;** on .hero-text CSS class  
+> **Bug** 3 video cards not centered on media page.
+> **Fix** Add **justify-content: center;** to **.video-cards**  css class.
 
 # Deployment
 
