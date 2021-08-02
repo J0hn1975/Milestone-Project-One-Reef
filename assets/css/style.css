@@ -27,7 +27,7 @@
 
 /* Change background colour of nav bar */
 .bg-dark {
-  background-color: #292929;
+  background-color: #000000;
 }
 
 /* Responsive image */
@@ -67,7 +67,7 @@ h6 {
 
 /* Hamburger menu */
 .custom-toggler.navbar-toggler {
-    border-color: white;
+    border-color: #ffffff;
 }
 
 /* Hamburger menu three line */
@@ -182,7 +182,7 @@ h6 {
 /* Style for band biography text */
 .band-bio {
     width: 50%;
-    color: black;
+    color: #000000;
     margin-left: 25%;
     font-size: 1.2rem;
     text-align: justify;
@@ -291,7 +291,7 @@ h6 {
 /* Style paragraphs for video containers */
 .resp-container> p {
     text-align: center;
-    color: red;
+    color: #ffffff;
     font-family: "Anton", sans-serif;
     font-size: 1.1rem;
 }
@@ -299,7 +299,7 @@ h6 {
 /* Style for video cards */
 .video-card {
   background-color: #1e90ff;
-  color: white;
+  color: #ffffff;
   padding: 1rem;
   height: auto;
   width: 100%;
@@ -324,7 +324,7 @@ h6 {
 /* Booking form conainter */
 .carousel-caption {
     text-align: center;
-    color: white;
+    color: #ffffff;
     font-size: 20px;
 }
 
@@ -412,7 +412,7 @@ h6 {
     bottom: 0;
     width: 100%;
     height: 50px;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     font-family: "RocknRoll One", sans-serif;
 }
@@ -426,7 +426,7 @@ h6 {
 
 /* Font awesome icon for You Tube */
 .fa-youtube-square {
-    color: red;
+    color: #ffffff;
     font-size: 30px;
     margin-top: 10px;
 }
