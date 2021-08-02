@@ -90,6 +90,16 @@ h6 {
     font-size: 24px;
 }
 
+/*............................................404 page*/
+/* Error 404 page background image */
+.image-404 {
+  background-image: url("https://thumbs.dreamstime.com/b/dums-amplifier-empty-stage-music-instruments-drums-guitar-illuminated-blue-red-lights-47891178.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
 /*............................................Home page*/
 /* Band bio text */
 .band-intro {
@@ -374,7 +384,7 @@ h6 {
 
 /*............................................Footer*/
 
-/* Stop empty links on WAVE validation */
+/* Stop empty links flagging up on WAVE validation */
 .sr-only{
    position:absolute;
    left:-10000px;
