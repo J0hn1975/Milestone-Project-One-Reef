@@ -17,12 +17,12 @@
 /*............................................Navbar*/
 /* Change hover colour of nav links */
 .navbar-custom .nav-item.active .nav-link, .navbar-custom .nav-item:hover .nav-link {
-  color: #ffffff;
+  color: #CFE1FD;
  }
 
  /* Change hover colour of navbar brand */
 .navbar-custom .navbar-brand:hover, .navbar-custom .navbar-text {
-  color: #ffffff;
+  color: #CFE1FD;
 }
 
 /* Change background colour of nav bar */
@@ -126,7 +126,7 @@ h6 {
 .card-text {
     font-family: "Anton", sans-serif;
     text-align: center;
-    color: blue;
+    color: #88B6FC;
 }
 
 /* cta buttom wrapper */
@@ -138,7 +138,7 @@ h6 {
 /* Styles for cta button */
 .cta-button {
     background-color: rgba(255, 128, 0);
-    color: blue;
+    color: #88B6FC;
     vertical-align: middle;
     padding-left: 2rem;
     padding-right: 2rem;
@@ -163,7 +163,7 @@ h6 {
     text-align: center;
     font-weight: 700;
     list-style-type: none;
-    color: blue;
+    color: #88B6FC;
 }
 
 /* Modal button */
@@ -211,7 +211,6 @@ h1 {
 /* Change background colour of grid columns */
 .gridCol {
   padding: 10px;
-  background: #f3ffe0;
 }
 
 /* Image style for masonry layout */
@@ -299,7 +298,7 @@ h6 {
 
 /* Style for video cards */
 .video-card {
-  background-color: dodgerblue;
+  background-color: #1e90ff;
   color: white;
   padding: 1rem;
   height: auto;
@@ -315,10 +314,17 @@ h6 {
 }
 
 /*............................................Booking*/
+
+/* Booking form heading */
+.title {
+  color: #88B6FC;
+  text-align: center;
+}
+
 /* Booking form conainter */
 .carousel-caption {
     text-align: center;
-    color:cyan;
+    color: white;
     font-size: 20px;
 }
 
@@ -380,7 +386,7 @@ h6 {
 
 /* Message send button */
 .btn {
-    background: #39b7dd;
+    background: #88B6FC;
     text-align: center;
     padding: 15px;
     border-radius: 5px;
