@@ -183,16 +183,19 @@ A boostrap and fully responsive nav bar, that has links to Home, Quiz and Contac
 > * 1.1 A site that is easy and clear to navigate
 > * 1.12 Present the end user with a clear and simple navigation menu
 
-### Feature 2: Weather Widget API
-Weather Widget display the current weather for Santorini on the Home Page. When the widget is clicked it takes you to the Forcast7.com website for a more detailed forecast.
-> ![Weather Widget](docs/Features/weatherwidget.PNG)
-> 24hr Forecast  
-> ![Weather Widget 24hr](docs/Features/weather24.PNG)  
-> 7 Day Forecast  
-> ![Weather Widget 7Day](docs/Features/weather7days.PNG)  
+### Feature 2: Image Carousel
+Image carousel that cycles through 3 images of the band. The first carousel displays each name of each band member under their respective picture.
+> <details><summary>Carousel (Image 1)</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/carousel_1.PNG">
+> </details>  
+> <details><summary>Carousel (Image 2)</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/carousel_2.PNG">
+> </details>  
+> <details><summary>Carousel (Image 3)</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/carousel_3.PNG">
+> </details>  
 > User stories feature realtes to:  
-> * 2.3 The current weather conditions in Santorini
-> * 2.13 Display the current weather in Santorini
+> * 2.8 Pictures and videos of the band
 
 ### Feature 3: Google Maps API
 Google maps API to that shows the exact location of Sanitorini.
