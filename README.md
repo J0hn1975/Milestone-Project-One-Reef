@@ -68,14 +68,15 @@ As a existing fan of the band I would like to see:
 > 8.  Picture and videos of the band
 > 9.  A bookings page where I can book the band for my own events
 > 10. Music that I can purchase
+> 11. Merchanside that I can purchase
 
 ## Site owner goals
 The main goal of this site is to present useful information about the band on a website that is easy to navigate.
-> 11. Display a contact form so the user can get in touch with the site owner
-> 12. Present the end user with a clear and simple navigaion menu
-> 13. A button on the 404 page that takes the user back to the Home page
-> 14. A media page with a collection of videos and pictures.
-> 15. An informative biography about the band.
+> 12. Display a contact form so the user can get in touch with the site owner
+> 13. Present the end user with a clear and simple navigaion menu
+> 14. A button on the 404 page that takes the user back to the Home page
+> 15. A media page with a collection of videos and pictures.
+> 16. An informative biography about the band.
 ---
 
 ## Structure
@@ -239,23 +240,16 @@ User stories this feature relates to:
 User stories the features relates to:  
 * 7.7 The latest merchandide displayed prominently
 
-### Feature 7: Contact Page
-A contact page to allow user to contact site owner. Form also displays validation, and message when form is submitted.
-> ![Contact](docs/Features/contactpage.PNG)
-Name Validation  
-> ![Name Validation](docs/Features/namevalidation.PNG)   
-Subject Validation       
-> ![Subject Validation](docs/Features/subjectvalidation.PNG)  
-Email Validation   
-> ![Email Validation](docs/Features/emailvalidation.PNG)  
-Message Validation      
-> ![Message Validation](docs/Features/messagevalidation.PNG)  
-Form Submitted      
-> ![Form Submitted](docs/Features/formsubmitted.PNG)  
+### Feature 7: Shopping Cart Modal
+Shopping cart modal where the all the merchandise, tickets and music can be purchased.
+><details><summary>Latest Merchandise</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/shoppingcartmodal.PNG">
+> </details> 
+
 User stories the features relates to:   
-> * 7.9 A contact page to get in touch with the site owner
-> * 7.14 Display a contact form so the user can get in touch with the site owner
-> * 7.19 A site that provides feedback and validation.  
+> * 7.10 Music that I can purchase
+> * 7.11 Merchanside that I can purchase
+
 
 ### Feature 8: 404 Error Page
 404 error page for when a user enters a incorrect URL
