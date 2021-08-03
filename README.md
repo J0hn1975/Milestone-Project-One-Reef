@@ -214,6 +214,14 @@ Video of Reef latest single.
 User stories feature relates to:
 > * 4.8 Pictures and videos of the band
 
+### Feature 5: New Music
+A small selection of the new music that can be purchased.
+> <details><summary>New Music</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/newmusic.PNG">
+> </details>  
+User stories this feature relates to:
+> * 5.4 Old and new songs from the band
+
 ### Feature 5: Classic Reef Songs
 A collection of 4 classic Reef songs using a standard HTML audio player
 > <details><summary>Classic Reef</summary>
@@ -222,8 +230,8 @@ A collection of 4 classic Reef songs using a standard HTML audio player
 User stories this feature relates to:
 > * 5.4 Old and new songs from the band
 
-### Feature 6: Quiz Page
-A quiz to that the knowledge of the end user, that responds to and validates user input
+### Feature 6: Latest Merchandise
+A small selection of the lastest merchandise from the band
 > ![Quiz Page](docs/Features/quizpage.PNG)   
 > ![Quiz Started](docs/Features/quiz.PNG)  
 The quiz displays the right and or wrong answer  
