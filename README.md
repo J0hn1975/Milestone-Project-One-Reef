@@ -347,16 +347,17 @@ I have used the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org
 --- 
 
 ### Lighthouse Performance
-I have used Google Lighthouse (in Google Dev tools) to measure the performance the site
+I have used Google Lighthouse (in Google Dev tools) to measure the performance of the site
+>* Home Page (Desktop) - 98 Performance, 93 Accessibility, 100 Best Practices, 80 Seo [View Results](docs/lighthouse/desktop/HomePage.PNG)
+>* Bio Page (Desktop) - 97 Performance, 100 Accessibility, 93 Best Practices, 90 Seo [View Results](docs/lighthouse/desktop/BioPage.PNG)
+>* Media Page (Desktop) - 85 Performance, 98 Accessibility, 87 Best Practices, 90 Seo [View Results](docs/lighthouse/desktop/MediaPage.PNG)
+>* Bookings Page (Desktop) - 98 Performance, 100 Accessibility, 93 Best Practices, 90 Seo [View Results](docs/lighthouse/desktop/BookingPage.PNG)
+>
+>* Home Page (Mobile) - 84 Performance, 93 Accessibility, 100 Best Practices, 83 Seo [View Results](docs/lighthouse/mobile/HomePage.PNG)
+>* Bio Page (Mobile) - 82 Performance, 100 Accessibility, 93 Best Practices, 92 Seo [View Results](docs/lighthouse/mobile/BioPage.PNG)
+>* Media Page (Mobile) - 91 Performance, 98 Accessibility, 87 Best Practices, 92 Seo [View Results](docs/lighthouse/mobile/MediaPage.PNG)
+>* Bookings Page (Mobile) - 83 Performance, 100 Accessibility, 93 Best Practices, 92 Seo [View Results](docs/lighthouse/mobile/BookingsPage.PNG)
 
-|       Page        |                            Result                            |                        Screenshot                        |
-| :---------------: | :----------------------------------------------------------: | :------------------------------------------------------: |
-|  Home (Desktop)   | 97 Performance, 95 Accessibility, 87 Best Practices, 100 SEO |  [View Results](docs/Lighthouse/Desktop/index.html.PNG)  |
-|  Quiz (Desktop)   | 99 Performance, 96 Accessibility, 93 Best Practices, 100 SEO |  [View Results](docs/Lighthouse/Desktop/quiz.html.PNG)   |
-| Contact (Desktop) | 99 Performance, 96 Accessibility, 93 Best Practices, 100 SEO | [View Results](docs/Lighthouse/Desktop/contact.html.PNG) |
-|   Home (Mobile)   | 77 Performance, 97 Accessibility, 87 Best Practices, 100 SEO |  [View Results](docs/Lighthouse/Mobile/index.html.PNG)   |
-|   Quiz (Mobile)   | 84 Performance, 97 Accessibility, 93 Best Practices, 100 SEO |   [View Results](docs/Lighthouse/Mobile/quiz.html.PNG)   |
-| Contact (Mobile)  | 88 Performance, 97 Accessibility, 93 Best Practices, 100 SEO | [View Results](docs/Lighthouse/Mobile/contact.html.PNG)  |
 --- 
 
 ### Device Tests
