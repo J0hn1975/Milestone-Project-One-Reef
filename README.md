@@ -316,13 +316,14 @@ User stories the features relates to:
 ## Testing
 ## Code Validation
 ### CSS Validation
-I have used the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Jigsaw to check that my CSS is valid
+I have used the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Jigsaw to check that my CSS is valid  
 
 CSS validation returned with 0 errors [View Results](docs/css-validation/css-validation.PNG)
 
+---
 
 ### HTML Validation
-I have used the W3C Markup Validation Service to check my HTML is valid
+I have used the [W3C Markup Validation Service](https://validator.w3.org/) to check my HTML is valid
 
 |   Page       |  Result              |                      Screenshot                      |
 |:------------:|:--------------------:|:----------------------------------------------------:|
