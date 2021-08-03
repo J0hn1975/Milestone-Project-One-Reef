@@ -260,6 +260,15 @@ User stories the features relates to:
 > * 9.4 Old and new songs from the band
 > * 9.8 Pictures and videos of the band
 
+### Feature 10: Biography
+Biography of the band.
+><details><summary>Biography</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/biography.PNG">
+> </details> 
+
+User stories the features relates to:   
+> * 10.2 A biography of the band
+> * 10.16 An informative biography about the band
 
 ### Feature 8: 404 Error Page
 404 error page for when a user enters a incorrect URL
