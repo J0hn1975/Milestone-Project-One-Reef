@@ -214,12 +214,13 @@ Video of Reef latest single.
 User stories feature relates to:
 > * 4.8 Pictures and videos of the band
 
-### Feature 5: Home Page
-Home page that displays a welcome message and short description of the island. A nav bar, footer, google map and weather forecast are displayed to
-> ![Home Page](docs/Features/homepage.PNG)  
-> USer stories this feature relates to:
-> * 5.1 A site that is easy and clear to navigate
-> * 5.3 The current weather conditions in Santorini
+### Feature 5: Classic Reef Songs
+A collection of 4 classic Reef songs using a standard HTML audio player
+> <details><summary>Classic Reef</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/classicreefsongs.PNG">
+> </details>  
+User stories this feature relates to:
+> * 5.4 Old and new songs from the band
 
 ### Feature 6: Quiz Page
 A quiz to that the knowledge of the end user, that responds to and validates user input
