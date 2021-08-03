@@ -314,6 +314,10 @@ h6 {
 }
 
 /*............................................Booking*/
+h4 {
+  display: none;
+}
+
 /* Booking form heading */
 .title {
   color: #88B6FC;
