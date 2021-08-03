@@ -311,19 +311,15 @@ User stories the features relates to:
 > * HTML5
 > * CSS3
 > * Javascript
-> * Google Maps Api
-> * Weather Widget
 > * Balsamiq
 
 ## Testing
 ## Code Validation
 ### CSS Validation
-I have used the W3C CSS Validation Service - Jigsaw to check that my CSS is valid
+I have used the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Jigsaw to check that my CSS is valid
 
-|    Page     |               Result                |                       Screenshot                       |
-| :---------: | :---------------------------------: | :----------------------------------------------------: |
-| Entire Site | CSS Validation passed with 0 Errors | [View Results](docs/CSS-Validation/CSS_Validation.PNG) |
----
+CSS validation returned with 0 errors [View Results](docs/css-validation/css-validation.PNG)
+
 
 ### HTML Validation
 I have used the W3C Markup Validation Service to check my HTML is valid
@@ -599,7 +595,6 @@ Clone site locally
 > 5. If required change the directory to where you would like repo cloned to
 > 6. Type git clone and then copy in repo URL
 > 7. Press enter and repo will go through short cloning process
-
 ---
 
 # Credits
@@ -611,18 +606,3 @@ Clone site locally
 # Acknowledgements
 > * Mo Shami for his external patience and guidance
 > * My partner Laura who has not seen that much of me during MS1
-
-## Testing
-
-HTML Validation
-
-I have used the W3C CSS Validation tool to check that my html is valid.
-
-HTML validation passed with 0 errors 
-* [HTML Validation](assets/docs/html-validation/html-validation.PNG)
-
-WAVE accessibiilty passed with 0 errors
-* [Wave validation](assets/docs/accessibilty/accessibilty.PNG)
-
-CSS Validation with 17 errors picked up from Boostrap 5 CDN, 1 error from my own CSS
-* [Css validation](assets/docs/css-validation/css-validation.PNG)
