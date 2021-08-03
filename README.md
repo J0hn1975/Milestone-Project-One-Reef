@@ -193,8 +193,9 @@ Image carousel that cycles through 3 images of the band. The first carousel disp
 > </details>  
 > <details><summary>Carousel (Image 3)</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/carousel_3.PNG">
-> </details>  
-> User stories feature realtes to:  
+> </details>    
+User stories feature relates to:      
+> * 2.3 A brief history of all the band members  
 > * 2.8 Pictures and videos of the band
 
 ### Feature 3: Google Maps API
