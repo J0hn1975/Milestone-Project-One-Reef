@@ -281,13 +281,24 @@ User stories the features relates to:
 > * 11.8 Pictures and videos of the band
 > * 11.15 A media page with a collection of videos and pictures
 
-### Feature 8: 404 Error Page
-404 error page for when a user enters a incorrect URL
-> ![404](docs/Features/404.PNG)  
+### Feature 12: Bookings Page
+Booking page with a contact form to book the band for your own events.
+> <details><summary>Media</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/bookings.PNG">
+> </details>   
 User stories the features relates to:
-> * 7.19 A site that provides feedback and validation.
-> * 7.20 On the 404 page the user shouldn't use the broswer back but instead the nav bar
-> * 8.13 An error page to show if I have enterted an incorrect URL
+> * 12.9 A bookings page where I can book the band for my own events
+> * 12.12 Display a contact form so the user can get in touch with the site owner
+---
+
+### Feature 13: Error 404 Page
+Error 404 page should the user enter a URL incorrectly.
+> <details><summary>Media</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/error404.PNG">
+> </details>   
+User stories the features relates to:
+> * 13.5 An error page to show if I have enterted an incorrect URL
+> * 13.14 A button on the 404 page that takes the user back to the Home page
 ---
 
 ## Technolgies Used
