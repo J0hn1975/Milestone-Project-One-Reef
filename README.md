@@ -198,12 +198,14 @@ User stories feature relates to:
 > * 2.3 A brief history of all the band members  
 > * 2.8 Pictures and videos of the band
 
-### Feature 3: Google Maps API
-Google maps API to that shows the exact location of Sanitorini.
-> ![Google Maps API](docs/Features/map.PNG)  
-> User stories feature relates to:
-> * 3.2 A map of where Santorini is located
-> * 3.18 Display a map of Santorini
+### Feature 3: New Tour Dates Announced
+New Tours Dates Announced section displayed using bootstrap cards
+> <details><summary>New Tour Dates Announced</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/newtourdates.PNG">
+> </details>  
+User stories feature relates to:
+> * 3.6 Details of live performances.
+
 
 ### Feature 4: Footer
 Footer that displays the site name and two social links; one to youtube and one to Tripadvisor
