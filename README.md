@@ -332,15 +332,9 @@ I have used the [W3C Markup Validation Service](https://validator.w3.org/) to ch
 ---
 
 ### Javascript Validation
-I have used JS Hint to validate my Javascript.
+I have used [JS Hint](https://jshint.com/) to validate my Javascript.
+>* myscript.js - JS Hint validation returned 2 warnings [View Results](docs/js-validation/JSValidation.PNG)
 
-|     Page     |        Result        |                         Screenshot                          |
-|:------------:|:--------------------:|:-----------------------------------------------------------:|
-|    form.js   | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/form.js.PNG)      |
-|    map.js    | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/map.js.PNG)       |
-|  question.js | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/question.js.PNG)  |
-|    quiz.js   | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/quiz.js.PNG)      |
-| sendemail.js | 0 errors, 0 warnings | [View Results](docs/Javascript-Validation/SendEmail.js.PNG) |
 ---
 
 ### WAVE Accessibilty
