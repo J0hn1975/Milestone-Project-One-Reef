@@ -335,9 +335,6 @@ h4 {
   text-align: center;
 }
 
-/* Booking form conainter */
-
-
 /* Main form wrapper */
 .form-wrapper{
   position: absolute;
@@ -459,7 +456,7 @@ h4 {
   .contact-form{
     flex-direction: column;
     position: relative;
-  }
+ }
   .msg textarea{
     height: 80px;
   }
@@ -468,10 +465,9 @@ h4 {
     width: 100%;
   }
   .form-wrapper {
-  position: relative;
   top: 25%;
   left: 50%;
-  transform: translate(-50%, -25%);
+  transform: translate(-50%, -10%);
   width: 100%;
   max-width: 550px;
   background: rgba(0,0,0,0.8);
