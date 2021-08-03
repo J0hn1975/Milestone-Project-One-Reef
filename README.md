@@ -325,11 +325,10 @@ CSS validation returned with 0 errors [View Results](docs/css-validation/css-val
 ### HTML Validation
 I have used the [W3C Markup Validation Service](https://validator.w3.org/) to check my HTML is valid
 
-|   Page       |  Result              |                      Screenshot                      |
-|:------------:|:--------------------:|:----------------------------------------------------:|
-|   Home       | 0 errors             | [View Results](docs/HTML-Validation/Home_Page.PNG)   |
-|   Quiz       | 0 errors             | [View Results](docs/HTML-Validation/Quiz_Page.PNG)   |
-|  Contact     | 0 errors             | [View Results](docs/HTML-Validation/Contact_Page.PNG)|
+>* Home Page - HTML validation returned with 0 errors [View Results](docs/html-validation/HomePage.PNG)
+>* Bio Page - HTML validation returned with 0 errors [View Results](docs/html-validation/BioPage.PNG)
+>* Media Page - HTML validation returned with 0 errors [View Results](docs/html-validation/MediaPage.PNG)
+>* Bookings Page - HTML validation returned with 0 errors [View Results](docs/html-validation/BookingsPage.PNG)
 ---
 
 ### Javascript Validation
