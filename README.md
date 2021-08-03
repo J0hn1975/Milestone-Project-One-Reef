@@ -242,7 +242,7 @@ User stories the features relates to:
 
 ### Feature 8: Shopping Cart Modal
 Shopping cart modal where the all the merchandise, tickets and music can be purchased.
-><details><summary>Latest Merchandise</summary>
+><details><summary>Shopping Cart</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/shoppingcartmodal.PNG">
 > </details> 
 
@@ -269,6 +269,17 @@ Biography of the band.
 User stories the features relates to:   
 > * 10.2 A biography of the band
 > * 10.16 An informative biography about the band
+
+### Feature 11: Media
+Pictures and videos of the band
+><details><summary>Media</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/media.PNG">
+> </details> 
+
+User stories the features relates to:   
+> * 11.4 Old and new songs from the band
+> * 11.8 Pictures and videos of the band
+> * 11.15 A media page with a collection of videos and pictures
 
 ### Feature 8: 404 Error Page
 404 error page for when a user enters a incorrect URL
