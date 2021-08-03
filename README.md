@@ -220,30 +220,24 @@ A small selection of the new music that can be purchased.
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/newmusic.PNG">
 > </details>  
 User stories this feature relates to:
-> * 5.4 Old and new songs from the band
+> * 5.4 Old and new songs from the band  
+> * 5.10 Music that I can purchase
 
-### Feature 5: Classic Reef Songs
-A collection of 4 classic Reef songs using a standard HTML audio player
+> ### Feature 6: Classic Reef Songs
+> A collection of 4 classic Reef songs using a standard HTML audio player
 > <details><summary>Classic Reef</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/classicreefsongs.PNG">
 > </details>  
-User stories this feature relates to:
-> * 5.4 Old and new songs from the band
+ User stories this feature relates to:
+ * 5.4 Old and new songs from the band
 
-### Feature 6: Latest Merchandise
-A small selection of the lastest merchandise from the band
-> ![Quiz Page](docs/Features/quizpage.PNG)   
-> ![Quiz Started](docs/Features/quiz.PNG)  
-The quiz displays the right and or wrong answer  
-> ![RightWrongAnswer](docs/Features/right_wrong_answer.PNG)  
-At the end of the quiz an table displays overall progress with buttons to leave table or start quiz again  
-> ![Quiz Results](docs/Features/quiz_result.PNG)  
-> User stories the features relates to:  
-> * 6.5 An informative quiz where I can test my knowledge on Santorini
-> * 6.6 Feedback on which answers I have got right
-> * 6.7 A final page that displays how well did on the quiz
-> * 6.17 Provide a quiz where the user can test their knowledge
-> * 6.19 A site that provides feedback and validation.
+> ### Feature 7: Latest Merchandise
+> A small selection of the lastest merchandise from the band.
+> <details><summary>Latest Merchandise</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/latestmerch.PNG">
+> </details>   
+User stories the features relates to:  
+* 7.7 The latest merchandide displayed prominently
 
 ### Feature 7: Contact Page
 A contact page to allow user to contact site owner. Form also displays validation, and message when form is submitted.
