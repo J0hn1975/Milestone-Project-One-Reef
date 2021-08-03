@@ -206,12 +206,13 @@ New Tours Dates Announced section displayed using bootstrap cards
 User stories feature relates to:
 > * 3.6 Details of live performances.
 
-
-### Feature 4: Footer
-Footer that displays the site name and two social links; one to youtube and one to Tripadvisor
-> ![Footer](docs/Features/footer.PNG)  
-> User stories feature relates to:
-> * 4.4 External social media links to find out more about the island
+### Feature 4: Latest Video
+Video of Reef latest single.
+>  <details><summary>New Tour Dates Announced</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/latestvideo.PNG">
+> </details>  
+User stories feature relates to:
+> * 4.8 Pictures and videos of the band
 
 ### Feature 5: Home Page
 Home page that displays a welcome message and short description of the island. A nav bar, footer, google map and weather forecast are displayed to
