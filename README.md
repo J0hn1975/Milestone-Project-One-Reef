@@ -180,10 +180,10 @@ A boostrap and fully responsive nav bar, that has links to Home, Quiz and Contac
 > <details><summary>NavBar (Mobile)</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/mobilenav.PNG">
 > </details>
-> User stories feature relates to:
-> * 1.1 A site that is easy and clear to navigate
-> * 1.12 Present the end user with a clear and simple navigation menu
-
+User stories feature relates to:  
+* 1.1 A site that is easy and clear to navigate
+* 1.12 Present the end user with a clear and simple navigation menu
+---
 ### Feature 2: Image Carousel
 Image carousel that cycles through 3 images of the band. The first carousel displays each name of each band member under their respective picture.
 > <details><summary>Carousel (Image 1)</summary>
@@ -196,8 +196,9 @@ Image carousel that cycles through 3 images of the band. The first carousel disp
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/carousel_3.PNG">
 > </details>    
 User stories feature relates to:      
-> * 2.3 A brief history of all the band members  
-> * 2.8 Pictures and videos of the band
+* 2.3 A brief history of all the band members  
+* 2.8 Pictures and videos of the band
+---
 
 ### Feature 3: New Tour Dates Announced
 New Tours Dates Announced section displayed using bootstrap cards
@@ -205,7 +206,8 @@ New Tours Dates Announced section displayed using bootstrap cards
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/newtourdates.PNG">
 > </details>  
 User stories feature relates to:
-> * 3.6 Details of live performances.
+* 3.6 Details of live performances
+---
 
 ### Feature 4: Latest Video
 Video of Reef latest single.
@@ -213,7 +215,8 @@ Video of Reef latest single.
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/latestvideo.PNG">
 > </details>  
 User stories feature relates to:
-> * 4.8 Pictures and videos of the band
+* 4.8 Pictures and videos of the band
+---
 
 ### Feature 5: New Music
 A small selection of the new music that can be purchased.
@@ -221,8 +224,9 @@ A small selection of the new music that can be purchased.
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/newmusic.PNG">
 > </details>  
 User stories this feature relates to:
-> * 5.4 Old and new songs from the band  
-> * 5.10 Music that I can purchase
+* 5.4 Old and new songs from the band  
+* 5.10 Music that I can purchase
+---
 
 > ### Feature 6: Classic Reef Songs
 > A collection of 4 classic Reef songs using a standard HTML audio player
@@ -231,6 +235,7 @@ User stories this feature relates to:
 > </details>  
  User stories this feature relates to:
  * 5.4 Old and new songs from the band
+ ---
 
 > ### Feature 7: Latest Merchandise
 > A small selection of the lastest merchandise from the band.
@@ -239,47 +244,48 @@ User stories this feature relates to:
 > </details>   
 User stories the features relates to:  
 * 7.7 The latest merchandide displayed prominently
+---
 
 ### Feature 8: Shopping Cart Modal
 Shopping cart modal where the all the merchandise, tickets and music can be purchased.
 ><details><summary>Shopping Cart</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/shoppingcartmodal.PNG">
 > </details> 
-
 User stories the features relates to:   
-> * 7.10 Music that I can purchase
-> * 7.11 Merchandise that I can purchase
+* 7.10 Music that I can purchase
+* 7.11 Merchandise that I can purchase
+---
 
 ### Feature 9: Footer
 Footer with external links to Reef's Spotify, You Tube and Twitter pages.
 ><details><summary>Footer</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/footer.PNG">
 > </details> 
-
 User stories the features relates to:   
-> * 9.4 Old and new songs from the band
-> * 9.8 Pictures and videos of the band
+* 9.4 Old and new songs from the band
+* 9.8 Pictures and videos of the band
+---
 
 ### Feature 10: Biography
 Biography of the band.
 ><details><summary>Biography</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/biography.PNG">
 > </details> 
-
 User stories the features relates to:   
-> * 10.2 A biography of the band
-> * 10.16 An informative biography about the band
+* 10.2 A biography of the band
+* 10.16 An informative biography about the band
+---
 
 ### Feature 11: Media
 Pictures and videos of the band
 ><details><summary>Media</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/media.PNG">
 > </details> 
-
 User stories the features relates to:   
-> * 11.4 Old and new songs from the band
-> * 11.8 Pictures and videos of the band
-> * 11.15 A media page with a collection of videos and pictures
+* 11.4 Old and new songs from the band
+* 11.8 Pictures and videos of the band
+* 11.15 A media page with a collection of videos and pictures
+---
 
 ### Feature 12: Bookings Page
 Booking page with a contact form to book the band for your own events.
@@ -287,8 +293,8 @@ Booking page with a contact form to book the band for your own events.
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/bookings.PNG">
 > </details>   
 User stories the features relates to:
-> * 12.9 A bookings page where I can book the band for my own events
-> * 12.12 Display a contact form so the user can get in touch with the site owner
+* 12.9 A bookings page where I can book the band for my own events
+* 12.12 Display a contact form so the user can get in touch with the site owner
 ---
 
 ### Feature 13: Error 404 Page
@@ -297,8 +303,8 @@ Error 404 page should the user enter a URL incorrectly.
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/error404.PNG">
 > </details>   
 User stories the features relates to:
-> * 13.5 An error page to show if I have enterted an incorrect URL
-> * 13.14 A button on the 404 page that takes the user back to the Home page
+* 13.5 An error page to show if I have enterted an incorrect URL
+* 13.14 A button on the 404 page that takes the user back to the Home page
 ---
 
 ## Technolgies Used
