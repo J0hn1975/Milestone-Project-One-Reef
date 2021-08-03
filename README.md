@@ -173,12 +173,15 @@ Througout the site I have used clear images showcasing Santorini's natural beaut
 ## Existing Features
 ### Feature 1: The Nav Bar
 A boostrap and fully responsive nav bar, that has links to Home, Quiz and Contact pages. As part of it bootstrap functionality the nav bar displays as a burger menu on mobile devices. 
-> ![Navbar](docs/Features/navbar.PNG)
-> ![MobileNav](docs/Features/navbar_mobile.PNG)  
+> <details><summary>NavBar (Desktop)</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/navbar.PNG">
+> </details>
+> <details><summary>NavBar (Mobile)</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/mobilenav.PNG">
+> </details>
 > User stories feature relates to:
 > * 1.1 A site that is easy and clear to navigate
-> * 1.12 As a user I would like to see a responsive site that can be used on mobile devices
-> * 1.15 Present the end user with a clear and simple navigaion menu
+> * 1.12 Present the end user with a clear and simple navigation menu
 
 ### Feature 2: Weather Widget API
 Weather Widget display the current weather for Santorini on the Home Page. When the widget is clicked it takes you to the Forcast7.com website for a more detailed forecast.
