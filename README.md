@@ -240,7 +240,7 @@ User stories this feature relates to:
 User stories the features relates to:  
 * 7.7 The latest merchandide displayed prominently
 
-### Feature 7: Shopping Cart Modal
+### Feature 8: Shopping Cart Modal
 Shopping cart modal where the all the merchandise, tickets and music can be purchased.
 ><details><summary>Latest Merchandise</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/shoppingcartmodal.PNG">
@@ -248,7 +248,17 @@ Shopping cart modal where the all the merchandise, tickets and music can be purc
 
 User stories the features relates to:   
 > * 7.10 Music that I can purchase
-> * 7.11 Merchanside that I can purchase
+> * 7.11 Merchandise that I can purchase
+
+### Feature 9: Footer
+Footer with external links to Reef's Spotify, You Tube and Twitter pages.
+><details><summary>Footer</summary>
+> <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/footer.PNG">
+> </details> 
+
+User stories the features relates to:   
+> * 9.4 Old and new songs from the band
+> * 9.8 Pictures and videos of the band
 
 
 ### Feature 8: 404 Error Page
