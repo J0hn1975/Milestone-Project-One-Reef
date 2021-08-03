@@ -338,13 +338,12 @@ I have used [JS Hint](https://jshint.com/) to validate my Javascript.
 ---
 
 ### WAVE Accessibilty
-I have used the WAVE Web Accessibilty Evaluation Tool to ensure site is accessible
+I have used the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) to ensure site is accessible
+>* Home Page - WAVE validation returned 0 error, 0 contrast errors [View Results](docs/accessibilty/HomePage.PNG)
+>* Bio Page - WAVE validation returned 0 error, 0 contrast errors [View Results](docs/accessibilty/BioPage.PNG)
+>* Media Page - WAVE validation returned 0 error, 0 contrast errors [View Results](docs/accessibilty/MediaPage.PNG)
+>* Booking Page - WAVE validation returned 0 error, 0 contrast errors [View Results](docs/accessibilty/BookingPage.PNG)
 
-|   Page  |            Result           | Screenshot |
-|:-------:|:---------------------------:|:----------:                                                                 
-|   Home  | 0 errors, 0 contrast errors | [View results](/docs/WAVE-Accessibilty/index.html_Wave_Validation.PNG)      |
-|   Quiz  | 0 errors, 0 contrast errors | [View results](/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG)       |
-| Contact | 0 errors, 0 contrast errors | [View results](assets/docs/WAVE-Accessibilty/quiz.html_Wave_Validation.PNG) |
 --- 
 
 ### Lighthouse Performance
