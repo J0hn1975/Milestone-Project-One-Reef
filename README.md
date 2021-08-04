@@ -437,13 +437,13 @@ Overall results:
 
 [User story screenshot](docs/user-story-testing/userstorytest_6.PNG)  
 
-> 7. A final page that displays how well did on the quiz
+> 7. The latest merchandise displayed prominently
 
-|                  Feature                   |   Test Steps   |               Expected               |      Actual       |
-| :----------------------------------------: | :------------: | :----------------------------------: | :---------------: |
-| Display overall summary page at end of quiz | Completed quiz | Overall quiz summary to be displayed | Works as expected |
+|                  Feature                   |   Test Steps                                                |       Expected           |      Actual       |
+| :----------------------------------------: | :---------------------------------------------------------: | :----------------------: | :---------------: |
+| Display merchandise that can be purchased  | Navigate to Home Page and scroll down to Latest Merchandise | Merchandise is displayed | Works as expected |
 
-[User story screen shot](docs/Features/quiz_result.PNG)
+[User story screen shot](docs/user-story-testing/userstorytest_7.PNG)
 
 > 8. An option to close out of the final page or play quiz again
 
