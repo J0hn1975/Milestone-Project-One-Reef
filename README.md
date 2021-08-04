@@ -59,7 +59,7 @@ As a new fan of the band I would like to see:
 > 1.  A site that is easy and clear to navigate
 > 2.  A biography of the band
 > 3.  A brief history of all the band members
-> 4.  Old and new songs from the band
+> 4.  Old songs from the band
 > 5.  An error page to show if I have enterted an incorrect URL
 
 As a existing fan of the band I would like to see:
@@ -224,7 +224,7 @@ A small selection of the new music that can be purchased.
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/newmusic.PNG">
 > </details>  
 User stories this feature relates to:
-* 5.4 Old and new songs from the band  
+* 5.4 Old songs from the band  
 * 5.10 Music that I can purchase
 ---
 
@@ -234,7 +234,7 @@ User stories this feature relates to:
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/classicreefsongs.PNG">
 > </details>  
  User stories this feature relates to:
- * 5.4 Old and new songs from the band
+ * 5.4 Old songs from the band
  ---
 
 ### Feature 7: Latest Merchandise
@@ -262,7 +262,7 @@ Footer with external links to Reef's Spotify, You Tube and Twitter pages.
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/footer.PNG">
 > </details> 
 User stories the features relates to:   
-* 9.4 Old and new songs from the band
+* 9.4 Old songs from the band
 * 9.8 Pictures and videos of the band
 ---
 
@@ -282,7 +282,7 @@ Pictures and videos of the band
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/media.PNG">
 > </details> 
 User stories the features relates to:   
-* 11.4 Old and new songs from the band
+* 11.4 Old songs from the band
 * 11.8 Pictures and videos of the band
 * 11.15 A media page with a collection of videos and pictures
 ---
@@ -413,11 +413,13 @@ Overall results:
 
 [User story screen shot](docs/user-story-testing/userstorytest_3.PNG)
 
-> 4. External social media links to find out more about the island
+> 4. Old songs from the band
 
 |                Feature                 |                          Test Steps                          |               Expected                |      Actual       |
 | :------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: | :---------------: |
-| Social media links to external content | Click on Youtube and Tripadvisor social media links display in footer | Youtube Video and Tripadvisor to load | Works as expected |
+|        Classic songs from Reef         | Navigate to Home Page and scroll down to Classic Reef section|  4 audio tracks available to play     | Works as expected |
+
+[User story screen shot](docs/user-story-testing/userstorytest_4.PNG)
 
 > 5. An informative quiz where I can test my knowledge on Santorini
 
