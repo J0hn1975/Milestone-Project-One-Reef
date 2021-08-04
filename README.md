@@ -313,7 +313,7 @@ User stories the features relates to:
 ## Other Tools and Technologies Used
 > * For the wireframes I used [BalSamiq](https://balsamiq.com/)
 > * To add the text to the user test screenshots I used [Adobe Photoshop](https://www.adobe.com/uk)
-> * For grammar and spell checking I used [Grammarly](https://www.grammarly.com/)
+> * For grammar and spell checking I used the free version (not premium) of [Grammarly](https://www.grammarly.com/)
 
 ## Testing
 ## Code Validation
@@ -435,7 +435,7 @@ Overall results:
 
 |             Feature              |          Test Steps                                        |             Expected             |      Actual       |
 | :------------------------------: | :--------------------------------------------------------: | :------------------------------: | :---------------: |
-| New Tour Dates Announced section | Navigate tp Home page and sroll down to new New Tour Dates | Correct answer to be highlighted | Works as expected |
+| New Tour Dates Announced section | Navigate tp Home page and scroll down to new New Tour Dates | Correct answer to be highlighted | Works as expected |
 
 [User story screenshot](docs/user-story-testing/userstorytest_6.PNG)  
 
@@ -445,23 +445,23 @@ Overall results:
 | :----------------------------------------: | :---------------------------------------------------------: | :----------------------: | :---------------: |
 | Display merchandise that can be purchased  | Navigate to Home Page and scroll down to Latest Merchandise | Merchandise is displayed | Works as expected |
 
-[User story screen shot](docs/user-story-testing/userstorytest_7.PNG)
+[User story screenshot](docs/user-story-testing/userstorytest_7.PNG)
 
 > 8. Pictures and videos of the band
 
 |                    Feature                      |   Test Steps           |                    Expected                     |      Actual       |
 | :---------------------------------------------: | :--------------------: | :---------------------------------------------: | :---------------: |
-| Videos and pictures displayed on the Media Page | Navigate to Media Page | Videos and pictures to be displayed             | Works as expected |
+| Videos and pictures displayed on the Media Page | Navigate to Media Page | videos and pictures to be displayed             | Works as expected |
 
-[User story screen shot](docs/user-story-testing/userstorytest_8.PNG)  
+[User story screenshot](docs/user-story-testing/userstorytest_8.PNG)  
 
 > 9. A bookings page where I can book the band for my events
 
 |                   Feature                    |      Test Steps          |             Expected             |      Actual       |
 | :-----------------------------------------:  | :------------------:     | :------------------------------: | :---------------: |
-| Bookings page for user to book band          | Clicked on Bookings page | Contact form page to be displyed | Works as expected |
+| Bookings page for user to book band          | Clicked on Bookings page | Contact form page to be displayed | Works as expected |
 
-[User story screen shot](docs/user-story-testing/userstorytest_9.PNG) 
+[User story screenshot](docs/user-story-testing/userstorytest_9.PNG) 
 
 > 10. Music that I can purchase
 
@@ -469,7 +469,7 @@ Overall results:
 | :-----------------------------------: | :----------------------------------------------------------------: | :------------------------------: | :---------------: |
 |  Buy Tickets and Merchandise button   | Navigate to Home Page, click on Buy Tickets and Merchandise button |  Shopping cart modal to pop up   | Works as expected |
 
-[User story screen shot](docs/Features/examplesofvalidation.PNG) 
+[User story screenshot](docs/Features/examplesofvalidation.PNG) 
 
 > 11. Merchandise that I can purchase
 
@@ -477,15 +477,15 @@ Overall results:
 | :-----------------------------------: | :----------------------------------------------------------------: | :------------------------------: | :---------------: |
 |  Buy Tickets and Merchandise button   | Navigate to Home Page, click on Buy Tickets and Merchandise button |   Shopping cart modal to pop up  | Works as expected |  
 
-[User story screen shot](docs/user-story-testing/userstorytest_11.PNG)
+[User story screenshot](docs/user-story-testing/userstorytest_11.PNG)
 
 > 12. Present the end-user with a clear and simple navigation menu
 
 |                   Feature            |          Test Steps          |             Expected                   |      Actual       |
 | :----------------------------------: | :--------------------------: | :------------------------------------: | :---------------: |
-| Nav bar laid out with 5 links        |        Loaded site           | Nav bar to display across top of page. | Works as expected |
+| Nav bar laid out with 5 links        |        Loaded site           | Nav bar to display across the top of the page. | Works as expected |
 
-[User story screen shot](docs/user-story-testing/userstorytest_12.PNG)  
+[User story screenshot](docs/user-story-testing/userstorytest_12.PNG)  
 
 > 13. A button on the 404 page that takes the user back to the Home page
 
@@ -493,7 +493,7 @@ Overall results:
 | :------------------------------------------: | :---------------------------------: | :---------------------------------------:| :---------------: |
 |        A Home button on the 404 page         | Load 404 page, click on Home button | Navigate away from 404 page to Home page | Works as expected |  
 
-[User story screen shot](docs/user-story-testing/userstorytest_13.PNG)  
+[User story screenshot](docs/user-story-testing/userstorytest_13.PNG)  
 
 ---
 
@@ -511,23 +511,23 @@ Overall results:
 
 I have deployed this site to GitHub pages
 
-> 1. Log in to git hub and find the respositry you wish to deploy
-> 2. On the respository click on **Settings**
-> 3. From left the hand menue click on **Pages**
+> 1. Log in to git hub and find the repository you wish to deploy
+> 2. On the repository click on **Settings**
+> 3. From left the hand menu click on **Pages**
 > 4. Click on the **Source** option
 > 5. From the dropdown change **none** to **master branch**
-> 6. The deplyment will take a few moments to finalise
+> 6. The deployment will take a few moments to finalise
 > 7. The live site URL is now displayed under Github Pages
 
 Clone site locally
 
-> 1. Log in to Github and navigate to main page of repository
+> 1. Log in to Github and navigate to the main page of the repository
 > 2. Click on **Code** above the list of files
-> 3. Copy the link under clone to https
-> 4. Open Git bash
-> 5. If required change the directory to where you would like repo cloned to
+> 3. Copy the link under clone to HTTPS
+> 4. Open Git Bash
+> 5. If required change the directory to where you would like the repo cloned to
 > 6. Type git clone and then copy in repo URL
-> 7. Press enter and repo will go through short cloning process
+> 7. Press enter and the repo will go through a short cloning process
 ---
 
 # Credits
