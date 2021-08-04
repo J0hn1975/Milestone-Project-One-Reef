@@ -453,13 +453,13 @@ Overall results:
 
 [User story screen shot](docs/user-story-testing/userstorytest_8.PNG)  
 
-> 9. A contact page to get in touch with the site owner
+> 9. A bookings page where I can book the band for my events
 
-|                   Feature                   |      Test Steps      |             Expected             |      Actual       |
-| :-----------------------------------------: | :------------------: | :------------------------------: | :---------------: |
-| Contact page for user to contact site owner | Clicked on quiz page | Contact form page to be displyed | Works as expected |
+|                   Feature                    |      Test Steps          |             Expected             |      Actual       |
+| :-----------------------------------------:  | :------------------:     | :------------------------------: | :---------------: |
+| Bookings page for user to book band          | Clicked on Bookings page | Contact form page to be displyed | Works as expected |
 
-[User story screen shot](docs/Features/contactpage.PNG) 
+[User story screen shot](docs/user-story-testing/userstorytest_9.PNG) 
 
 > 10. A site that responds and provides feedback on my interactions
 
