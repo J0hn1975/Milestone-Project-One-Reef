@@ -306,10 +306,14 @@ User stories the features relates to:
 ---
 
 ## Technolgies Used
-> * HTML5
-> * CSS3
-> * Javascript
-> * Balsamiq
+> * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+> * [CSS3](https://en.wikipedia.org/wiki/CSS)
+> * [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+
+## Other Tools and Technologies Used
+> * For the wireframes I used [BalSamiq](https://balsamiq.com/)
+> * To add the text to the user test screenshots I used [Adobe Photoshop](https://www.adobe.com/uk)
+> * For grammar and spell checking I used [Grammarly](https://www.grammarly.com/)
 
 ## Testing
 ## Code Validation
