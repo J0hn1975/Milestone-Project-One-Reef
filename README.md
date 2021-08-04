@@ -228,7 +228,7 @@ User stories this feature relates to:
 * 5.10 Music that I can purchase
 ---
 
-> ### Feature 6: Classic Reef Songs
+### Feature 6: Classic Reef Songs
 > A collection of 4 classic Reef songs using a standard HTML audio player
 > <details><summary>Classic Reef</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/classicreefsongs.PNG">
@@ -237,7 +237,7 @@ User stories this feature relates to:
  * 5.4 Old and new songs from the band
  ---
 
-> ### Feature 7: Latest Merchandise
+### Feature 7: Latest Merchandise
 > A small selection of the lastest merchandise from the band.
 > <details><summary>Latest Merchandise</summary>
 > <img src="https://github.com/J0hn1975/Milestone-Project-One-Reef/blob/master/docs/features/latestmerch.PNG">
@@ -367,21 +367,20 @@ The site has been tested on the following physical devices
 > - Samsung Galaxy A31
 
 Actual tests:
-> 1. Home, Quiz, Contact nav links all go to the correct pages. Clicking the Santorini brand logo navigates back to the Home page from each page.
+> 1. Home, Bio, Media and Bookings nav links all go to the correct pages. Clicking the Reef brand logo navigates back to the Home page from each page.
 > 2. The nav collaspses to a burger menu, which pushes the content down when clicked on. All nav links work as expected here too.
-> 3. The weather widget on the home page is responsive and when clicked on goes to the Forecast7.com website as expected.
-> 4. The map of Santorini has a location pin showing its location on the island.
-> 5. The text and images are clearly displayed.
-> 6. Contact page does not allow user to move forward until all fields are completed. Error messages display if a field has not been filled out.
+> 3. The 4 audio tracks all play when clicked on desktop and mobile devices.
+> 4. All videos on the Media play when clicked on on both mobile and desktop devices
+> 5. The Learn More and Watch More buttons go the the Bio and Media pages respectively
+> 6. When clicking on Buy Tickets and Merchandise button the Shopping Cart modal loads on both desktop and mobile devices
 > 7. All pages are responsive.
-> 8. The quiz page on mobile displays clearly. The correct and incorrect answers are easy to see.
-> 9. The desription of the island does not display on mobiles, as it makes the Home page too cluttered.
-> 10. Each nav link and logo brand text color change to white when clicked on.
+> 8. The main (latest video) on the Home Page plays loads and plays on both desktop and mobile devices
+> 10. Each of the four nav links and logo brand text color change to white when clicked / hovered on.
 > 11. A 404 error page will be displayed in the event of a incorrect URL being entered. The standard nav can be used to navigate back to the site pages.
-> 12. The two social links both go to Youtube and Tripadvisor respectively, both open in separate pages.
+> 12. The Spotify, You Tube and Twitter social links go to there respective pages, each opening in a separate tab
 
 Overall results:
-> * The above physical tests passed on each device they were tested on. On the mobile version of Chrome however, the Aladin font used on the hero text falls back to cursive.
+> * The above physical tests passed on each device they were tested on.
 
 ### Browser Tests
 > * Firefox Developer Edition - All nav links, features and website work as expected
