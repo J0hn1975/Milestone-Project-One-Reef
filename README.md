@@ -421,13 +421,13 @@ Overall results:
 
 [User story screen shot](docs/user-story-testing/userstorytest_4.PNG)
 
-> 5. An informative quiz where I can test my knowledge on Santorini
+> 5. An error page to show if I have enterted an incorrect URL
 
 |                         Feature                         |                     Test Steps                      |           Expected            |      Actual       |
 | :-----------------------------------------------------: | :-------------------------------------------------: | :---------------------------: | :---------------: |
-| Find an informative quiz to test knowledge on Santorini | Navigate to quiz page, clicked on Start Quiz button | Quiz to start as question one | Works as expected |
+| Error 404 page will display if incorrect URL entered    | Added an extra letter at end of the page URL's      | 404 page to display           | Works as expected |
 
-[User story screen shot](docs/Features/quiztest.PNG)  
+[User story screen shot](docs/user-story-testing/userstorytest_4.PNG)  
 
 > 6. Feedback on which answers I have got right
 
