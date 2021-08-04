@@ -400,18 +400,18 @@ Overall results:
 
 |                   Feature                    |                          Test Steps                          |    Expected    |      Actual       |
 | :------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------: |
-| Display a biography of the band.             | Navigate to Bio page scroll down to Bio underneath image     | Biography to display | Works as expected |  
+|      Display a biography of the band.        | Navigate to Bio page scroll down to Bio underneath image     | Biography to display | Works as expected |  
 
 [User story screen shot](docs/user-story-testing/userstorytest_2.PNG)  
 
-> 3. The current weather conditions in Santorini
+> 3. A brief history of all the band members
 
-|                           Feature                           |       Test Steps        |               Expected                |      Actual       |
-| :---------------------------------------------------------: | :---------------------: | :-----------------------------------: | :---------------: |
-|       Display current weather conditions in Santorini       | Navigate to home page.  |       Weather Widget to display       | Works as expected |
-| More detailed weahter forecast for the next 24hr and 7 days | Click on Weather Widget | Pass through to Forecast7.com website | Works as expected |
+|                           Feature                           |       Test Steps                       |               Expected                |      Actual       |
+| :---------------------------------------------------------: | :------------------------------------: | :-----------------------------------: | :---------------: |
+|       Display a brief history of the band                   | Navigate to home page and scroll down  |      Who are Reef section to display  | Works as expected |
 
-[User story screen shot](docs/Features/weatherwidgettest.PNG)
+
+[User story screen shot](docs/user-story-testing/userstorytest_3.PNG)
 
 > 4. External social media links to find out more about the island
 
