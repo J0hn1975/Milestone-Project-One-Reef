@@ -3,9 +3,9 @@
 
 https://j0hn1975.github.io/Milestone-Project-One-Reef/
 ## Overview
-A website based on a British rock band called Reef. This site is consists of a Home page, a biography of the band - including a brief history of the band and an intro to it's members, a tour page, a media page - which will contain pictures and videos, a store page selling the bands merchandise and finally, a contact page where the site visitors can book the band.
+A website based on a British rock band called Reef. This site is consists of a Home page, a biography of the band - including a brief history of the band and an intro to its members, a tour page, a media page - which will contain pictures and videos, a store page selling the bands merchandise and finally, a contact page where the site visitors can book the band.
 
-The main purpose of the site is for existing fans but also for new fans who are discovering Reef for the first time. These visitors may wish to find out more about the band and even book them for their own events.
+The main purpose of the site is for existing fans but also for new fans who are discovering Reef for the first time. These visitors may wish to find out more about the band and even book them for their events.
 
 ## UX
 ## Table of Contents
@@ -37,20 +37,20 @@ The main purpose of the site is for existing fans but also for new fans who are 
 
 ## Target Audience
 > * New fans who want to find out more about the band, listen to their music and watch videos.
-> * Existing fans wanting to find out about new tour dates, music and merchandise from the band
+> * Existing fans wanting to find out about new tour dates, music, and merchandise from the band
 
 # The 5 Planes of UX
-## Stratergy
+## Strategy
 ## Project Goals
 ---
 The primary business goals of this site are:
-> * To promote the bands music and merchandise
+> * To promote the band's music and merchandise
 > * Increase the overall fan base
 > * Sell tickets for upcoming tour dates
 
-The primary cusomter goals of this site are:
+The primary customer goals of this site are:
 > * To learn more about the band.
-> * Find out when the band are on tour and book tickets.
+> * Find out when the band is on tour and book tickets.
 > * Purchase music and merchandise.
 
 ## Scope
@@ -60,38 +60,38 @@ As a new fan of the band I would like to see:
 > 2.  A biography of the band
 > 3.  A brief history of all the band members
 > 4.  Old songs from the band
-> 5.  An error page to show if I have enterted an incorrect URL
+> 5.  An error page to show if I have entered an incorrect URL
 
-As a existing fan of the band I would like to see:
+As an existing fan of the band I would like to see:
 > 6.  Details of live performances.
-> 7.  The latest merchandide displayed prominently
+> 7.  The latest merchandise displayed prominently
 > 8.  Picture and videos of the band
-> 9.  A bookings page where I can book the band for my own events
+> 9.  A bookings page where I can book the band for my events
 > 10. Music that I can purchase
-> 11. Merchanside that I can purchase
+> 11. Merchandise that I can purchase
 
 ## Site owner goals
 The main goal of this site is to present useful information about the band on a website that is easy to navigate.
 > 12. Display a contact form so the user can get in touch with the site owner
-> 13. Present the end user with a clear and simple navigaion menu
+> 13. Present the end-user with a clear and simple navigation menu
 > 14. A button on the 404 page that takes the user back to the Home page
 > 15. A media page with a collection of videos and pictures.
 > 16. An informative biography about the band.
 ---
 
 ## Structure
-The website has been structured with 5 web pages (including a 404 error page). Each page is cleary designed, easy to navigate, and with well layed out information. With a mobile first approach in mind I have used bootstrap throughout to make the site respoinsive on mobile devices.
+The website has been structured with 5 web pages (including a 404 error page). Each page is clearly designed, easy to navigate, and with well-laid out information. With a mobile-first approach in mind, I have used bootstrap throughout to make the site responsive on mobile devices.
 
 > The 4 pages are:
-> 1. Home Page: A carousel with 3 large clear images of the band, a brieft history of the band and intro to the band members, new tour dates anounced section, the latest video displayed, a new music section, classic Reef songs from back catalogue.
+> 1. Home Page: A carousel with 3 large clear images of the band, a brief history of the band and intro to the band members, new tour dates announced section, the latest video displayed, a new music section, classic Reef songs from the back catalogue.
 > 2. Bio Page: A large clear image of the band is displayed along with a more detailed biography of the band and how they all first met and came to form Reef.
-> 3. Media Page: A page that has a single column of 3 videos displayed and pictures layed in masonry format.
+> 3. Media Page: A page that has a single column of 3 videos displayed and pictures laid out in masonry format.
 > 4. Bookings Page: A background image of the bass player with a contact form overlayed.
-> 5. 404: This alerts users if they have entered an incorrect URL for the site. The user is presented with warning message, navbar, footer and button to back to Home Page.
+> 5. 404: This alerts users if they have entered an incorrect URL for the site. The user is presented with a warning message, navbar, footer, and button to back to Home Page.
 ---
 
 ## Skeleton
-To design and develop the wireframes I first used Balsamiq, then used Snipping Tools to create PNG versions. The wireframes images are designed to collaspe.
+To design and develop the wireframes I first used Balsamiq, then used Snipping Tools to create PNG versions. The wireframes images are designed to collapse.
 
 ## Wireframes
 > <details><summary>Home Page (Desktop)</summary>
@@ -145,26 +145,26 @@ To design and develop the wireframes I first used Balsamiq, then used Snipping T
 
 ## Surface
 ## Colours
-Each page is design with very simple colours and images to showcase the island. The colours I have used are as follows:
+Each page is designed with very simple colours and images to showcase the island. The colours I have used are as follows:
 > - #FFCC51 - used as a background color for the footer and navbar
 > - #050505 - used for the site brand and nav links
 > - #009688 - used to style the quiz text.
 
 ## Typography
-Throughout the site I have used 3 Google Fonts chosen for their modern, but clean look and readability. 
-All fonts below will fall back to Sans-Serif if Google Font cannot be read by browser.
+Throughout the site, I have used 3 Google Fonts chosen for their modern, but clean look and readability. 
+All fonts below will fall back to Sans-Serif if Google Font cannot be read by the browser.
 
 Nav links, navbar brand, h1 main-headings (Home and Bio page).
 > - [RocknRoll+One](https://fonts.google.com/specimen/RocknRoll+One?query=RocknRoll+One)  
 
-Sub heading (Home Page), h6 card headings, card title and text, p tags in video cards.
+Subheading (Home Page), h6 card headings, card title and text, p tags in video cards.
 > - [Anton](https://fonts.google.com/specimen/Anton?query=Anton)
 
 Band Intro
 > - [Antonio](https://fonts.google.com/specimen/Antonio?query=Antonio)
 
 ## Imagery
-Througout the site I have used clear images showcasing Santorini's natural beauty.
+Throughout the site, I have used clear images showcasing Santorini's natural beauty.
 
 ## Design
 > The site is made up of three pages, using a simple and clean design. 
@@ -337,7 +337,7 @@ I have used [JS Hint](https://jshint.com/) to validate my Javascript.
 
 ---
 
-### WAVE Accessibilty
+### WAVE Accessibility
 I have used the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/) to ensure site is accessible
 >* Home Page - WAVE validation returned 0 error, 0 contrast errors [View Results](docs/accessibilty/HomePage.PNG)
 >* Bio Page - WAVE validation returned 0 error, 0 contrast errors [View Results](docs/accessibilty/BioPage.PNG)
@@ -368,16 +368,16 @@ The site has been tested on the following physical devices
 
 Actual tests:
 > 1. Home, Bio, Media and Bookings nav links all go to the correct pages. Clicking the Reef brand logo navigates back to the Home page from each page.
-> 2. The nav collaspses to a burger menu, which pushes the content down when clicked on. All nav links work as expected here too.
-> 3. The 4 audio tracks all play when clicked on desktop and mobile devices.
+> 2. The nav collapses to a burger menu, which pushes the content down when clicked on. All nav links work as expected here too.
+> 3. The 4 audio tracks all play when clicked on the desktop and mobile devices.
 > 4. All videos on the Media play when clicked on on both mobile and desktop devices
-> 5. The Learn More and Watch More buttons go the the Bio and Media pages respectively
+> 5. The Learn More and Watch More buttons go to the Bio and Media pages respectively
 > 6. When clicking on Buy Tickets and Merchandise button the Shopping Cart modal loads on both desktop and mobile devices
 > 7. All pages are responsive.
 > 8. The main (latest video) on the Home Page plays loads and plays on both desktop and mobile devices
-> 10. Each of the four nav links and logo brand text color change to white when clicked / hovered on.
-> 11. A 404 error page will be displayed in the event of a incorrect URL being entered. The standard nav can be used to navigate back to the site pages.
-> 12. The Spotify, You Tube and Twitter social links go to there respective pages, each opening in a separate tab
+> 10. Each of the four nav links and logo brand text colour change to white when clicked/hovered on.
+> 11. A 404 error page will be displayed in the event an incorrect URL is entered. The standard nav can be used to navigate back to the site pages.
+> 12. The Spotify, YouTube and Twitter social links go to their respective pages, each opening in a separate tab
 
 Overall results:
 > * The above physical tests passed on each device they were tested on.
@@ -402,16 +402,16 @@ Overall results:
 | :------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------: |
 |      Display a biography of the band.        | Navigate to Bio page scroll down to Bio underneath image     | Biography to display | Works as expected |  
 
-[User story screen shot](docs/user-story-testing/userstorytest_2.PNG)  
+[User story screenshot](docs/user-story-testing/userstorytest_2.PNG)  
 
 > 3. A brief history of all the band members
 
 |                           Feature                           |       Test Steps                       |               Expected                |      Actual       |
 | :---------------------------------------------------------: | :------------------------------------: | :-----------------------------------: | :---------------: |
-|       Display a brief history of the band                   | Navigate to home page and scroll down  |      Who are Reef section to display  | Works as expected |
+|       Display a brief history of the band                   | Navigate to the home page and scroll down  |      Who are Reef section to display  | Works as expected |
 
 
-[User story screen shot](docs/user-story-testing/userstorytest_3.PNG)
+[User story screenshot](docs/user-story-testing/userstorytest_3.PNG)
 
 > 4. Old songs from the band
 
@@ -419,29 +419,29 @@ Overall results:
 | :------------------------------------: | :----------------------------------------------------------: | :-----------------------------------: | :---------------: |
 |        Classic songs from Reef         | Navigate to Home Page and scroll down to Classic Reef section|  4 audio tracks available to play     | Works as expected |
 
-[User story screen shot](docs/user-story-testing/userstorytest_4.PNG)
+[User story screenshot](docs/user-story-testing/userstorytest_4.PNG)
 
-> 5. An error page to show if I have enterted an incorrect URL
+> 5. An error page to show if I have entered an incorrect URL
 
 |                         Feature                         |                     Test Steps                      |           Expected            |      Actual       |
 | :-----------------------------------------------------: | :-------------------------------------------------: | :---------------------------: | :---------------: |
 | Error 404 page will display if incorrect URL entered    | Added an extra letter at end of the page URL's      | 404 page to display           | Works as expected |
 
-[User story screen shot](docs/user-story-testing/userstorytest_4.PNG)  
+[User story screenshot](docs/user-story-testing/userstorytest_5.PNG)  
 
-> 6. Feedback on which answers I have got right
+> 6. Details of live performances
 
-|             Feature              |          Test Steps           |             Expected             |      Actual       |
-| :------------------------------: | :---------------------------: | :------------------------------: | :---------------: |
-| Show feedback on correct answers | Answered a question correctky | Correct answer to be highlighted | Works as expected |
+|             Feature              |          Test Steps                                        |             Expected             |      Actual       |
+| :------------------------------: | :--------------------------------------------------------: | :------------------------------: | :---------------: |
+| New Tour Dates Announced section | Navigate tp Home page and sroll down to new New Tour Dates | Correct answer to be highlighted | Works as expected |
 
-[User story screen shot](docs/Features/right_wrong_answer.PNG)  
+[User story screenshot](docs/user-story-testing/userstorytest_6.PNG)  
 
 > 7. A final page that displays how well did on the quiz
 
 |                  Feature                   |   Test Steps   |               Expected               |      Actual       |
 | :----------------------------------------: | :------------: | :----------------------------------: | :---------------: |
-| Display overall summay page at end of quiz | Completed quiz | Overall quiz summary to be displayed | Works as expected |
+| Display overall summary page at end of quiz | Completed quiz | Overall quiz summary to be displayed | Works as expected |
 
 [User story screen shot](docs/Features/quiz_result.PNG)
 
