@@ -484,11 +484,11 @@ Overall results:
 
 [User story screen shot](docs/user-story-testing/userstorytest_12.PNG)  
 
-> 13. An error page to show if I have enterted an incorrect URL
+> 13. A button on the 404 page that takes the user back to the Home page
 
-|                         Feature                          |     Test Steps      |        Expected        |      Actual       |
-| :------------------------------------------------------: | :-----------------: | :--------------------: | :---------------: |
-| An error 404 will be displayed if incorrect URL entered. | Enter incorrect URL | Error 404 page to load | Works as expected |  
+|                         Feature              |     Test Steps                      |        Expected                          |      Actual       |
+| :------------------------------------------: | :---------------------------------: | :---------------------------------------:| :---------------: |
+|        A Home button on the 404 page         | Load 404 page, click on Home button | Navigate away from 404 page to Home page | Works as expected |  
 
 [User story screen shot](docs/Features/404.PNG)  
 
@@ -508,11 +508,11 @@ Overall results:
 
 [U er story screen shot](docs/Features/navbar.PNG)
 
-> 16. Display the current weather in Santorini
+> 16. A button on the 404 page that takes the user back to the Home page
 
-|                       Feature                        |    Test Steps    |                   Expected                    |      Actual       |
-| :--------------------------------------------------: | :--------------: | :-------------------------------------------: | :---------------: |
-| Weather Widget displays current weather of Santorini | Loaded home page | Weather widget with daily forecast to display | Works as expected |
+|                       Feature                        |    Test Steps                        |                   Expected                    |      Actual       |
+| :--------------------------------------------------: | :----------------------------------: | :-------------------------------------------: | :---------------: |
+| Home Button displayed on the Error 404 Page          | Loaded 404 page, clicked Home button | 404 page to go back to Home page              | Works as expected |
 
 [User story screen shot](docs/Features/weatherwidget.PNG)
 
