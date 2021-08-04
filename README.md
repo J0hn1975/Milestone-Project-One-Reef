@@ -461,21 +461,21 @@ Overall results:
 
 [User story screen shot](docs/user-story-testing/userstorytest_9.PNG) 
 
-> 10. A site that responds and provides feedback on my interactions
+> 10. Music that I can purchase
 
-|                       Feature                       |             Test Steps              |                           Expected                           |      Actual       |
-| :-------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: | :---------------: |
-| Features that respond and provide feed back to user | Completed contact form, played quiz | User validation displyed on contact form. User progress on quiz displayed | Works as expected |
+|              Feature                  |             Test Steps                                             |      Expected                    |      Actual       |
+| :-----------------------------------: | :----------------------------------------------------------------: | :------------------------------: | :---------------: |
+|  Buy Tickets and Merchandise button   | Navigate to Home Page, click on Buy Tickets and Merchandise button |  Shopping cart modal to pop up   | Works as expected |
 
 [User story screen shot](docs/Features/examplesofvalidation.PNG) 
 
-> 11. A site that I can interact with
+> 11. Merchandise that I can purchase
 
-|              Feature              |               Test Steps                |                       Expected                       |      Actual       |
-| :-------------------------------: | :-------------------------------------: | :--------------------------------------------------: | :---------------: |
-| Interactive features on webs site | User can complete contact form and quiz | Contact form and quiz page for user to interact with | Works as expected |  
+|              Feature                  |             Test Steps                                             |      Expected                    |      Actual       |
+| :-----------------------------------: | :----------------------------------------------------------------: | :------------------------------: | :---------------: |
+|  Buy Tickets and Merchandise button   | Navigate to Home Page, click on Buy Tickets and Merchandise button |   Shopping cart modal to pop up  | Works as expected |  
 
-[User story screen shot](docs/Features/interactivefeatures.PNG)
+[User story screen shot](docs/user-story-testing/userstorytest_11.PNG)
 
 > 12. As a user I would like to see a responsive site that can be used on mobile devices
 
