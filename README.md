@@ -396,13 +396,13 @@ Overall results:
 
 [User story screenshot](docs/Features/homepage.PNG)  
 
-> 2. A map of where Santorini is located
+> 2. A biography of the band
 
 |                   Feature                    |                          Test Steps                          |    Expected    |      Actual       |
 | :------------------------------------------: | :----------------------------------------------------------: | :------------: | :---------------: |
-| Display a map of where Santorini is located. | Navigate to home page where is map is clearly and prominently displayed | Map to display | Works as expected |  
+| Display a biography of the band.             | Navigate to Bio page scroll down to Bio underneath image     | Biography to display | Works as expected |  
 
-[User story screen shot](docs/Features/homepage.PNG)  
+[User story screen shot](docs/user-story-testing/userstorytest_2.PNG)  
 
 > 3. The current weather conditions in Santorini
 
