@@ -74,8 +74,7 @@ As an existing fan of the band I would like to see:
 The main goal of this site is to present useful information about the band on a website that is easy to navigate.
 > 12. Present the end-user with a clear and simple navigation menu
 > 13. A button on the 404 page that takes the user back to the Home page
-> 14. A media page with a collection of videos and pictures.
-> 15. An informative biography about the band.
+
 ---
 
 ## Structure
@@ -490,71 +489,7 @@ Overall results:
 | :------------------------------------------: | :---------------------------------: | :---------------------------------------:| :---------------: |
 |        A Home button on the 404 page         | Load 404 page, click on Home button | Navigate away from 404 page to Home page | Works as expected |  
 
-[User story screen shot](docs/Features/404.PNG)  
-
-> 14. Display a contact form so the user can get in touch with the site owner
-
-|                           Feature                            |        Test Steps         |                Expected                 |      Actual       |
-| :----------------------------------------------------------: | :-----------------------: | :-------------------------------------: | :---------------: |
-| Contact form for the user to get in touch with site owner with questions or queries | Navigated to contact page | Contact form to display on contact page | Works as expected |  
-
-[User story screen shot](docs/Features/contact.PNG)  
-
-> 15. Present the end user with a clear and simple navigaion menu
-
-|                           Feature                            |                     Test Steps                     |            Expected             |      Actual       |
-| :----------------------------------------------------------: | :------------------------------------------------: | :-----------------------------: | :---------------: |
-| Present the end user with a clear and simple navigation menu | Loaded site where the nav bar is clearly layed out | Nav bar to display on each page | Works as expected |
-
-[U er story screen shot](docs/Features/navbar.PNG)
-
-> 16. A button on the 404 page that takes the user back to the Home page
-
-|                       Feature                        |    Test Steps                        |                   Expected                    |      Actual       |
-| :--------------------------------------------------: | :----------------------------------: | :-------------------------------------------: | :---------------: |
-| Home Button displayed on the Error 404 Page          | Loaded 404 page, clicked Home button | 404 page to go back to Home page              | Works as expected |
-
-[User story screen shot](docs/Features/weatherwidget.PNG)
-
-> 17. Provide a quiz where the user can test their knowledge
-
-|                   Feature                    |    Test Steps    |           Expected           |      Actual       |
-| :------------------------------------------: | :--------------: | :--------------------------: | :---------------: |
-| Quiz page that contains informative question | Loaded quiz page | Quiz to display on page load | Works as expected |
-
-[User story screen shot](docs/Features/quizpage.PNG)
-
-> 18. Make a site that is responsive across all devices.
-
-|                Feature                 |                   Test Steps                   |       Expected        |      Actual       |
-| :------------------------------------: | :--------------------------------------------: | :-------------------: | :---------------: |
-| Site created with mobile first in mind | Test across different devices (emulators used) | Site to be responsive | Works as expected |
-
-[User story screen shot](docs/Features/deviceresponsivenness-2.png)
-
-> 19. A site that provides feedback and validation.
-
-|                   Feature                   |               Test Steps                |              Expected               |      Actual       |
-| :-----------------------------------------: | :-------------------------------------: | :---------------------------------: | :---------------: |
-| Site that provides feed back and validation | Completed quiz with provides validation | Validation to provided on questions | Works as expected |
-
-[User story screen shot](docs/Features/right_wrong_answer.PNG)  
-
-> 20. On the 404 page the user shouldn't use the broswer back but instead the nav bar.
-
-|                         Feature                         |                         Test Steps                         |           Expected            |      Actual       |
-| :-----------------------------------------------------: | :--------------------------------------------------------: | :---------------------------: | :---------------: |
-| 404 page with nav bar for user to navigate back to site | Entered incorrect URL and used nav bar to get back to site | To be directed back main site | Works as expected |
-
-[User story screen shot](docs/Features/404nav.PNG)  
-
-> 21. Display a map of Santorini
-
-|         Feature          |          Test Steps           |         Expected         |      Actual       |
-| :----------------------: | :---------------------------: | :----------------------: | :---------------: |
-| Display map of Santorini | Map of Santorini on home page | To find map on home page | Works as expected |  
-
-[User story screen shot](docs/Features/map.PNG)  
+[User story screen shot](docs/user-story-testing/userstorytest_13.PNG)  
 
 ---
 
