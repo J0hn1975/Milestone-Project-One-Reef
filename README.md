@@ -72,11 +72,10 @@ As an existing fan of the band I would like to see:
 
 ## Site owner goals
 The main goal of this site is to present useful information about the band on a website that is easy to navigate.
-> 12. Display a contact form so the user can get in touch with the site owner
-> 13. Present the end-user with a clear and simple navigation menu
-> 14. A button on the 404 page that takes the user back to the Home page
-> 15. A media page with a collection of videos and pictures.
-> 16. An informative biography about the band.
+> 12. Present the end-user with a clear and simple navigation menu
+> 13. A button on the 404 page that takes the user back to the Home page
+> 14. A media page with a collection of videos and pictures.
+> 15. An informative biography about the band.
 ---
 
 ## Structure
@@ -477,13 +476,13 @@ Overall results:
 
 [User story screen shot](docs/user-story-testing/userstorytest_11.PNG)
 
-> 12. As a user I would like to see a responsive site that can be used on mobile devices
+> 12. Present the end-user with a clear and simple navigation menu
 
-|                   Feature                   |          Test Steps          |                           Expected                           |      Actual       |
-| :-----------------------------------------: | :--------------------------: | :----------------------------------------------------------: | :---------------: |
-| A site that is responsive on mobile devices | View site from mobile device | Site is responsive. Nav bar collapses to burger menu. Test each link. | Works as expected |
+|                   Feature            |          Test Steps          |             Expected                   |      Actual       |
+| :----------------------------------: | :--------------------------: | :------------------------------------: | :---------------: |
+| Nav bar laid out with 5 links        |        Loaded site           | Nav bar to display across top of page. | Works as expected |
 
-[User story screen shot](docs/Features/responsiveness.PNG)  
+[User story screen shot](docs/user-story-testing/userstorytest_12.PNG)  
 
 > 13. An error page to show if I have enterted an incorrect URL
 
