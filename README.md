@@ -445,13 +445,13 @@ Overall results:
 
 [User story screen shot](docs/user-story-testing/userstorytest_7.PNG)
 
-> 8. An option to close out of the final page or play quiz again
+> 8. Pictures and videos of the band
 
-|                    Feature                     |   Test Steps   |                    Expected                     |      Actual       |
-| :--------------------------------------------: | :------------: | :---------------------------------------------: | :---------------: |
-| Buttons to close out of quiz or start it again | Completed quiz | 'Try again' and 'Go to home' buttons to display | Works as expected |
+|                    Feature                      |   Test Steps           |                    Expected                     |      Actual       |
+| :---------------------------------------------: | :--------------------: | :---------------------------------------------: | :---------------: |
+| Videos and pictures displayed on the Media Page | Navigate to Media Page | Videos and pictures to be displayed             | Works as expected |
 
-[User story screen shot](docs/Features/endofquizbuttons.PNG)  
+[User story screen shot](docs/user-story-testing/userstorytest_8.PNG)  
 
 > 9. A contact page to get in touch with the site owner
 
