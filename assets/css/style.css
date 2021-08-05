@@ -327,20 +327,21 @@ h4 {
 }
 
 /* Contact form background image */
+/* Background image for contact form */
 .bg-img {
-    background-image: url("http://vivamanchester.co.uk/wp-content/uploads/2018/12/L1000645.jpg");
+    background-image: url("https://m.psecn.photoshelter.com/img-get/I0000kVLr7eOrpek/s/1200/I0000kVLr7eOrpek.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    min-height: 800px;
+    height: 1000px;
 }
 
 /* Contact form main wrapper */
 .wrapper {
   position: relative;
-  top: 25%;
+  top: 50%;
   left: 50%;
-  transform: translate(-50%,25%);
+  transform: translate(-50%,-50%);
   max-width: 350px;
   width: 100%;
   background: rgba(254,236,164,1);
