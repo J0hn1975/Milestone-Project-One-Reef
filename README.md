@@ -168,11 +168,10 @@ Band Intro
 > - [Antonio](https://fonts.google.com/specimen/Antonio?query=Antonio)
 
 ## Imagery
-Throughout the site I have used large pictures of the band
+Throughout the site I have used large pictures of the band.
 
 ## Design
-> The site is made up of three pages, using a simple and clean design. 
-> 
+> The site is made up of 5 pages (including an error 404 page). I have used large, clear images of the band mostly in a live setting to give a visual reprenstation of the band's rock music style.  
 
 # Features
 ## Existing Features
