@@ -168,7 +168,7 @@ Band Intro
 > - [Antonio](https://fonts.google.com/specimen/Antonio?query=Antonio)
 
 ## Imagery
-Throughout the site, I have used clear images showcasing Santorini's natural beauty.
+Throughout the site I have used large pictures of the band
 
 ## Design
 > The site is made up of three pages, using a simple and clean design. 
