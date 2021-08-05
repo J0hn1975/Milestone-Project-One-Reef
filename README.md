@@ -512,6 +512,9 @@ Overall results:
 > **Bug** 3 video cards not centered on media page.  
 > **Fix** Add **justify-content: center;** to **.video-cards**  css class.
 
+# Bugs not yet fixed
+> **Bug** - HTML audio player not fully responsive
+
 # Deployment
 
 I have deployed this site to GitHub pages
