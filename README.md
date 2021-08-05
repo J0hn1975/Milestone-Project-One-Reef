@@ -1,7 +1,7 @@
 # Milestone Project One - Reef
 ![Responsive Mockup](docs/mockup/responsive-mockup.PNG)
 
-[Live site can be view here](https://j0hn1975.github.io/Milestone-Project-One-Reef/)
+[Live site can be viewed here](https://j0hn1975.github.io/Milestone-Project-One-Reef/)
 ## Overview
 A website based on a British rock band called Reef. This site is consists of a Home page, a biography of the band - including a brief history of the band and an intro to its members, a tour page, a media page - which will contain pictures and videos, a store page selling the bands merchandise and finally, a contact page where the site visitors can book the band.
 
@@ -501,10 +501,10 @@ Overall results:
 > **Bug**  Mobile nav not pushing content down - all pages.  
 > **Fix** Added JS Boostrap 5 CDN to bottom of all pages
 >
-> **Bug** Social links not opening in separate tab. 
+> **Bug** Social links not opening in separate tab.  
 > **Fix** Added **target="_blank"**
 >
-> **Bug** 3 video cards not centered on media page.
+> **Bug** 3 video cards not centered on media page.  
 > **Fix** Add **justify-content: center;** to **.video-cards**  css class.
 
 # Deployment
