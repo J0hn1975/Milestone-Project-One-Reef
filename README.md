@@ -144,9 +144,15 @@ To design and develop the wireframes I first used Balsamiq, then used Snipping T
 ## Surface
 ## Colours
 Each page is designed with very simple colours and images to showcase the island. The colours I have used are as follows:
-> - #FFCC51 - used as a background color for the footer and navbar
-> - #050505 - used for the site brand and nav links
+> - #CFE1FD - used for nav link and brand hover colour
+> - #88B6FC - use for nav link and brand text colour
+> - #000000 - used nav bar and footer background, card text, button text, band biography, video card text.
 > - #009688 - used to style the quiz text.
+> - #1DA1F2 - for Twitter social icon
+> - #c5ecfd - for contact form input fields
+> - Green - for Spotify social icon
+> - Red - for social YouTube icon
+
 
 ## Typography
 Throughout the site, I have used 3 Google Fonts chosen for their modern, but clean look and readability. 
