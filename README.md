@@ -1,5 +1,5 @@
 # Milestone Project One - Reef
-![Responsive Mockup](assets/docs/mockup/responsive-mockup.PNG)
+![Responsive Mockup](docs/mockup/responsive-mockup.PNG)
 
 https://j0hn1975.github.io/Milestone-Project-One-Reef/
 ## Overview
