@@ -321,6 +321,11 @@ h6 {
 }
 
 /*............................................Booking*/
+
+h4 {
+  display: none;
+}
+
 /* Contact form background image */
 .bg-img {
     background-image: url("http://vivamanchester.co.uk/wp-content/uploads/2018/12/L1000645.jpg");
